@@ -21,7 +21,15 @@ github_username:  carlynorama
 markdown: kramdown
 
 collections:
-  - gettingstarted
-  - basicenduser
-  - developer
-  - pressurevalve
+  gettingstarted
+    output: true
+    title: Getting Started
+  basicenduser
+    output: true
+    title: Basic End User
+  developer
+    output: true
+    title: Developer
+  pressurevalve
+    output: true
+    title: Punches
