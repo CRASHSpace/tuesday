@@ -15,9 +15,9 @@
 
       <div class="trigger">
         {% for collection in site.collections %}
-            <h1>{{ collection[0] }} has the following value:</h1>
-            <p>{{ collection[1] | jsonify }}</p>
-            <br/>
+        {% unless collection.label == 'posts' %}
+            <a class="page-link" href="{{ file.path | remove: "_" }}">{{ collection.title }}</a>
+        {% endunless %}
         {% endfor %}
         {% for my_page in site.pages %}
           {% if my_page.title %}

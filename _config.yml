@@ -21,15 +21,16 @@ github_username:  carlynorama
 markdown: kramdown
 
 collections:
-  gettingstarted
-    output: true
+  #permalink: '/:collection/:path/'
+  gettingstarted:
+    output: false
     title: Getting Started
-  basicenduser
-    output: true
+  basicenduser:
+    output: false
     title: Basic End User
-  developer
-    output: true
+  developer:
+    output: false
     title: Developer
-  pressurevalve
-    output: true
+  pressurevalve:
+    output: false
     title: Punches
