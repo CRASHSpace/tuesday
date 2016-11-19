@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for collection in site.collections %}
         {% unless collection.label == 'posts' %}
-            <a class="page-link" href="{{ collection.label | remove: "_" }}">{{ collection.title }}</a>
+            <a class="page-link" href="/{{ collection.label | remove: "_" }}">{{ collection.title }}</a>
         {% endunless %}
         {% endfor %}
         {% for my_page in site.pages %}
