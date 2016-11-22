@@ -21,7 +21,7 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * What are you protecting?
 * What are the consequences of failure?
 * How much effort are you willing to put in?
-** Do you need two sets of devices?
+  * Two sets of devices is not that simple
 
 ## Starter Actions
 
@@ -32,6 +32,9 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Get a password manager
 * Move passwords and delete them from other places
 * Delete accounts you don't absolutely need
+* Who has your financial information?
+  * Check your credit
+  * Paypal
 * Upgrade to two factor authentication for logins
 * Don't rely on biometerics
 
@@ -41,14 +44,23 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Don't click on links
 
 ### Web Browsing
-* Never trust a network / HTTPS only please.
+* Turn on URL bar
+* Never trust a network
+  * HTTPS only please
+  * Firewalls
 * Blockers like Ghostery (but not enough)
 * Duck Duck Go
 * VPN/Proxy (with caveats)
 
+### Personal Information
+* Nodes: SSN, Phone number, email address, credit card, browser thumbprint
+* Turn off location services
+* Information on images
+
 ### Files
-* Encrypt your disks
+* How to encrypt
 * Don't download random sh*t - Honeypots
+* File drops
 
 ### Devices
 * RadioDead bag
