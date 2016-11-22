@@ -14,7 +14,9 @@ title: Sweep Checklist, Server Edition
 ## Perimeter
 
 * Software up to date
-* Check logs / traffic patterns
+* Check backups
+* Check logs
+* Check traffic patterns
 * Check processes
 * any new files?
 * who's new? remind them that their password shouldn't suck.

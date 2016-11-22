@@ -14,12 +14,17 @@ title: Sweep Checklist
 ## Perimeter
 
 * Software up to date on all devices
+* Check backups
 * Check logs
 * Check processes
-* Firewall(s) Up
+* Double Check settings
+  * location services
+  * firewalls
+  * drive encryptions
 * Passwords & Accounts
+  * What's new and is it in the password manager
   * [Who's been breached this week](https://haveibeenpwned.com/)
-  * What's new
+  * Who's TOS have been changed?
   * What passwords are more than _____ months old
   * any new two factor available?
   * Any new to delete?
