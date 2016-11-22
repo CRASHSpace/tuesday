@@ -26,11 +26,11 @@ collections:
     output: true
     title: Start Here
   sweep:
-    output: false
+    output: true
     title: Sweep
   learn:
-    output: false
+    output: true
     title: Learn
   release:
-    output: false
+    output: true
     title: Release
