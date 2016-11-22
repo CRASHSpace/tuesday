@@ -9,7 +9,7 @@ title: Sweep Checklist
 
 1. What did I do that I knew better than? Why?
 2. What would have made it easier to do the right thing?
-3. Change: Make it, schedule making it, ask the community, drop a note.
+3. Change: Make it, schedule making it, ask the community, drop a note to who can change it.
 
 ## Perimeter
 
@@ -33,7 +33,7 @@ title: Sweep Checklist
 * What can be deleted from mobile device(s)
 * Confirm location services off
 
-* Keep going on the check list
+* Keep going on the [starter check](../start/starter_checklist.html) list
 
 
 ## Be involved
