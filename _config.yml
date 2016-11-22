@@ -7,14 +7,14 @@
 
 # Site settings
 title: Tuesday
-email: your-email@domain.com
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://carlynorama.github.io/tuesday" # the base hostname & protocol for your site
-twitter_username: carlynorama
+#twitter_username:
 github_username:  carlynorama
 
 # Build settings
@@ -22,15 +22,15 @@ markdown: kramdown
 
 collections:
   #permalink: '/:collection/:path/'
-  gettingstarted:
+  start:
     output: true
-    title: Getting Started
-  basicenduser:
+    title: Start Here
+  sweep:
     output: false
-    title: Basic End User
-  developer:
+    title: Sweep
+  learn:
     output: false
-    title: Developer
-  pressurevalve:
+    title: Learn
+  release:
     output: false
-    title: Punches
+    title: Release
