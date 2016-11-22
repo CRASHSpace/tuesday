@@ -21,27 +21,29 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * What are you protecting?
 * What are the consequences of failure?
 * How much effort are you willing to put in?
-  * Two sets of devices is not that simple
 
 ## Starter Actions
 
 ### Feel Good Fast
 * Download Signal
 
+### Bad News
+* None of this is the problem - Social Engineering
+
 ### The Front Door
 * Get a password manager
 * Move passwords and delete them from other places
+* Upgrade passwords to ones that don't suck
+* Upgrade to two factor authentication for logins
 * Delete accounts you don't absolutely need
 * Who has your financial information?
-  * Check your credit
-  * Paypal
-* Upgrade to two factor authentication for logins
+  * Check your credit card / Paypal statements
 * Don't rely on biometerics
 
 ### Email
 * Stop trusting it
 * Turn off autoloading of images
-* Don't click on links
+* Don't click on links / download files
 
 ### Web Browsing
 * Turn on URL bar
@@ -58,9 +60,14 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Information on images
 
 ### Files
-* How to encrypt
-* Don't download random sh*t - Honeypots
+* Encryption the easy way
+* Get a set of keys I
+* Don't download random sh*t onto secure machines/networks- Honeypots
 * File drops
+
+### Home Network
+* Get to know your router
+* Avoid IoT until security has improved
 
 ### Devices
 * RadioDead bag
@@ -68,4 +75,3 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Isolate things that listen
 * Don't plug in peripherals/drives
 * Things that make noise can listen
-* Avoid IoT until security has improved

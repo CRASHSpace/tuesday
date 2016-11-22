@@ -5,33 +5,43 @@ name: sweep_checklist.md
 title: Sweep Checklist
 ---
 
+## I am the weakest link
+
 1. What did I do that I knew better than? Why?
 2. What would have made it easier to do the right thing?
-3. Do it / Tell some one
+3. Change: Make it, schedule making it, ask the community, drop a note.
 
+## Perimeter
+
+* Software up to date on all devices
 * Check logs
-  * including financials
 * Check processes
 * Firewall(s) Up
-* Software up to date
-* Delete or archive files from downloads folder
-* Delete or archive email off of server
-
-
 * Passwords & Accounts
+  * Who's been breached this week
+    * https://haveibeenpwned.com/
   * What's new
   * What's too old
   * any new two factor available?
-  * Which accounts can be deleted?
+  * Any new to delete?
+* Delete or archive files from downloads folder
+* Delete or archive email off of server
+* What can be deleted from mobile devices
+* Confirm location services off
 
+* Keep going on the check list
+
+
+## Be involved
+* What's in Congress?
+* What are the state and locals up to?
+* Put events around town into calendar?
 
 ## Project Management Check In
 
 * Still a good time?
-* Visual reminder working?
-* Organizational tool still okay?
+* What's working? Not working?
 * New rewards?
-
 
 ## Monthly
 * Still happy with the tools?

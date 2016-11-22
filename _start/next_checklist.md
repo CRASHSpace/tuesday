@@ -1,32 +1,34 @@
 ---
-collection: start
+collection: sweep
 layout: page
 name: next_checklist.md
 title: Level 2 Checklist
 ---
 
+* Firechat / meshkit
+* P2P services
+* DNS Server change?
+* What makes an OS secure (windows)
+* thumbdrive OS
+* dazzle camo
+* http://idlewords.com/talks/haunted_by_data.htm
 
-## Starter Actions
-
-### Feel Good Fast
-* Download Signal
-
-### The Front Door
+### Encryption
+* Get a set of keys II
 
 ### Email
-* PGP, but still don't trust it
+* Get off Google and pay for it
+* Encrypt, but still don't trust it
 
 ### Web Browsing
-* Never trust a network
-* Blockers like Ghostery (but not enough)
-* Duck Duck Go
-* VPN (why not TOR)
+* Tor on a computer that never connects to home network
 
 ### Devices
-* RadioDead bag
-* Isolate things that watch
-* Isolate things listen
-* Peripheral device quarantine
-* File quarantine
-* Things that make noise can listen
-* Avoid IoT until security has improved
+* Isolated sets without overlap, but always under own control
+
+### Open Source
+* Learn how to compile
+
+### Quarantines
+* For devices
+* For files
