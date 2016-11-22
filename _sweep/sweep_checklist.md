@@ -18,15 +18,14 @@ title: Sweep Checklist
 * Check processes
 * Firewall(s) Up
 * Passwords & Accounts
-  * Who's been breached this week
-    * https://haveibeenpwned.com/
+  * [Who's been breached this week](https://haveibeenpwned.com/)
   * What's new
-  * What's too old
+  * What passwords are more than _____ months old
   * any new two factor available?
   * Any new to delete?
 * Delete or archive files from downloads folder
 * Delete or archive email off of server
-* What can be deleted from mobile devices
+* What can be deleted from mobile device(s)
 * Confirm location services off
 
 * Keep going on the check list
@@ -42,6 +41,3 @@ title: Sweep Checklist
 * Still a good time?
 * What's working? Not working?
 * New rewards?
-
-## Monthly
-* Still happy with the tools?

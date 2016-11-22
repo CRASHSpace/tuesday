@@ -27,9 +27,6 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 ### Feel Good Fast
 * Download Signal
 
-### Bad News
-* None of this is the problem - Social Engineering
-
 ### The Front Door
 * Get a password manager
 * Move passwords and delete them from other places
@@ -44,6 +41,9 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Stop trusting it
 * Turn off autoloading of images
 * Don't click on links / download files
+
+### Paper
+* Buy a shredder 
 
 ### Web Browsing
 * Turn on URL bar
@@ -75,3 +75,6 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Isolate things that listen
 * Don't plug in peripherals/drives
 * Things that make noise can listen
+
+### Bad News
+* None of this is the problem - Social Engineering
