@@ -33,7 +33,13 @@ https://www.patreon.com/
 https://www.kickstarter.com
 https://archive.org/donate/
 
+
 http://www.fairvote.org/
+https://www.plannedparenthood.org/
+https://www.emilyslist.org/
+https://www.splcenter.org/
+http://www.publiccounsel.org/
+http://www.naacp.org/
 https://www.nrdc.org/
 http://www.sierraclub.org/
 
