@@ -32,6 +32,7 @@ https://www.codeforamerica.org/donate
 https://www.patreon.com/
 https://www.kickstarter.com
 https://archive.org/donate/
+https://simplysecure.org/donate/
 
 
 http://www.fairvote.org/

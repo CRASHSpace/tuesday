@@ -5,7 +5,7 @@ name: next_checklist.md
 title: Level 2 Checklist
 ---
 
-* Firechat / meshkit
+* Firechat / meshkit / https://ssbc.github.io/patchwork/
 * P2P services
 * DNS Server change?
 * What makes an OS secure (windows)

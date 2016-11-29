@@ -16,6 +16,7 @@ http://security.stackexchange.com/
 http://www.darkreading.com/
 https://www.schneier.com/
 http://krebsonsecurity.com/
+http://www.niemanlab.org/
 https://www.wired.com/category/security/threatlevel/
 https://www.eff.org/deeplinks
 http://motherboard.vice.com/tag/cybersecurity
