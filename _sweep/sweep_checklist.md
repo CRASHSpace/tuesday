@@ -27,27 +27,12 @@ title: Sweep Checklist
 * Double Check settings
   * location services off
   * firewalls up
-  * drive encryptions on* Delete or archive files from downloads folder
+  * drive encryptions on
+* Delete or archive files from downloads folder
 * Delete or archive email off of server
-* What can be deleted from mobile device(s)
-* Confirm location services off
+* Deleted Apps not using from mobile device(s)
 
 * Keep going on the [starter check](../start/starter_checklist.html) list
-
-## Report
-* https://www.us-cert.gov/report-phishing
-* https://www.consumer.ftc.gov/articles/0003-phishing
-*
-
-## Be involved
-* Report phishing attempts
-  * [The United Staes Computer Emergency Readiness Team](https://www.us-cert.gov/report-phishing)
-  * [Federal Trade Commission](https://www.consumer.ftc.gov/articles/0003-phishing)
-* What's in Congress?
-  * [Check EFF](https://act.eff.org/)
-  * Then CALL your [Senator](http://www.senate.gov/general/contact_information/senators_cfm.cfm?OrderBy=state) or [member of congress](http://www.house.gov/representatives/find/) and the office of the [house committee](http://www.house.gov/committees/) or [senate committee](http://www.senate.gov/committees/committees_home.htm).
-* What are the state and locals up to?
-* Put events around town into calendar?
 
 ## Project Management Check In
 
