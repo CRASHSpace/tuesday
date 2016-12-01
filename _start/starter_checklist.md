@@ -31,19 +31,20 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Get a password manager
 * Move passwords and delete them from other places
 * Upgrade passwords to ones that don't suck
-* Upgrade to two factor authentication for logins
+* Upgrade to 2FA for logins
 * Delete accounts you don't absolutely need
 * Who has your financial information?
-  * Check your credit card / Paypal statements
+  * Check your credit card / Paypal statements regularly
 * Don't rely on biometerics
 
 ### Email
 * Stop trusting it
 * Turn off autoloading of images
-* Don't click on links / download files
+* Don't click on links
+* Be suspicious of files
 
 ### Paper
-* Buy a shredder 
+* Buy a shredder
 
 ### Web Browsing
 * Turn on URL bar
@@ -51,8 +52,8 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
   * HTTPS only please
   * Firewalls
 * Blockers like Ghostery (but not enough)
-* Duck Duck Go
-* VPN/Proxy (with caveats)
+* Duck Duck Go instead of Google
+* VPN/Proxy/Tor (with caveats)
 
 ### Personal Information
 * Nodes: SSN, Phone number, email address, credit card, browser thumbprint
