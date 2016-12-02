@@ -37,6 +37,13 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
   * Check your credit card / Paypal statements regularly
 * Don't rely on biometerics
 
+### Your Boxes
+* Keep software up to date.
+* Encryption the easy way
+* Get a set of keys I
+* Don't download random sh*t onto secure machines/networks
+* File drops
+
 ### Email
 * Stop trusting it
 * Turn off autoloading of images
@@ -60,11 +67,7 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Turn off location services
 * Information on images
 
-### Files
-* Encryption the easy way
-* Get a set of keys I
-* Don't download random sh*t onto secure machines/networks- Honeypots
-* File drops
+
 
 ### Home Network
 * Get to know your router
