@@ -33,14 +33,20 @@ title: Places to Give
 * https://www.kickstarter.com
 * https://archive.org/donate/
 * https://simplysecure.org/donate/
+* https://ocw.mit.edu/index.htm
+* https://epic.org (unrated charity nav)
 
 
 * http://www.fairvote.org/
+* https://www.splcenter.org/
 * https://www.plannedparenthood.org/
 * https://www.emilyslist.org/
-* https://www.splcenter.org/
-* http://www.publiccounsel.org/
+* http://www.adl.org/
 * http://www.naacp.org/
+* https://www.cair.com/
+* http://www.hrc.org/
+* http://www.thetrevorproject.org/
+* http://www.publiccounsel.org/
 * https://www.nrdc.org/
 * http://www.sierraclub.org/
 

@@ -35,9 +35,9 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Delete accounts you don't absolutely need
 * Who has your financial information?
   * Check your credit card / Paypal statements regularly
-* Don't rely on biometerics
+* Don't rely on biometrics
 
-### Your Boxes
+### Devices
 * Keep software up to date.
 * Encryption the easy way
 * Get a set of keys I

@@ -10,6 +10,7 @@ title: Actions To Take
   * [Federal Trade Commission](https://www.consumer.ftc.gov/articles/0003-phishing)
 * What's in Congress?
   * [Check EFF](https://act.eff.org/)
+  * [Check Federal Register](https://www.federalregister.gov/)
   * Then CALL your [Senator](http://www.senate.gov/general/contact_information/senators_cfm.cfm?OrderBy=state) or [member of congress](http://www.house.gov/representatives/find/) and the office of the [house committee](http://www.house.gov/committees/) or [senate committee](http://www.senate.gov/committees/committees_home.htm).
 * What are the state and locals up to?
   * Search for EFF and $YOUR_STAE
