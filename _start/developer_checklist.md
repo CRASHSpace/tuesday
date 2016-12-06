@@ -12,4 +12,9 @@ title: Checklist for Developers
 * https://sfbay.techsolidarity.org/2016/11/28/meeting_notes.htm
 * https://deardesignstudent.com/how-to-fight-fascism-dabdfeab1830
 * peer to peer
+
+##IoT
+
 * https://www.ftc.gov/tips-advice/business-center/guidance/careful-connections-building-security-internet-things
+* https://docs.microsoft.com/en-us/azure/iot-suite/iot-security-best-practices
+* http://www.darkreading.com/operations/5-best-practices-for-winning-the-iot-security-arms-race/a/d-id/1327021
