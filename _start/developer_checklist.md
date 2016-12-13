@@ -12,6 +12,8 @@ title: Checklist for Developers
 * https://sfbay.techsolidarity.org/2016/11/28/meeting_notes.htm
 * https://deardesignstudent.com/how-to-fight-fascism-dabdfeab1830
 * peer to peer
+* https://certbot.eff.org/
+* https://boingboing.net/2016/12/08/a-checklist-for-figuring-out-w.html
 
 ##IoT
 

@@ -30,6 +30,9 @@ collections:
   learn:
     output: true
     title: Learn
-  release:
+  engage:
     output: true
-    title: Release
+    title: Engage
+  relax:
+    output: true
+    title: Relax

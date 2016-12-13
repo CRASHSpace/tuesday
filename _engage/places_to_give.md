@@ -1,5 +1,5 @@
 ---
-collection: release
+collection: reward
 layout: page
 name: places_to_give.md
 title: Places to Give
