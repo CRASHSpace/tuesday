@@ -1,0 +1,45 @@
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><span style="font-weight: 400;">User behavior</span></td>
+<td><span style="font-weight: 400;">Installed software</span></td>
+<td><span style="font-weight: 400;">OS/Firmware</span></td>
+<td><span style="font-weight: 400;">Hardware</span></td>
+<td><span style="font-weight: 400;">External Accounts</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reduce attack surface</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reduce procedural vulnerabilities </span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Reduce technological vulnerabilities</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Block specific exploits</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>

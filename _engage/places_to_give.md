@@ -28,13 +28,15 @@ title: Places to Give
 ## Cash
 * https://www.eff.org/
 * https://www.aclu.org/
+* https://www.accessnow.org/
+* https://epic.org
 * https://www.codeforamerica.org/donate
 * https://www.patreon.com/
 * https://www.kickstarter.com
 * https://archive.org/donate/
 * https://simplysecure.org/donate/
 * https://ocw.mit.edu/index.htm
-* https://epic.org (unrated charity nav)
+
 
 
 * http://www.fairvote.org/
