@@ -15,6 +15,7 @@ title: Level 2 Checklist
 
 ### Encryption
 * Get a set of keys II
+* * Get a set of keys I
 
 ### Email
 * Get off Google and pay for it

@@ -1,5 +1,5 @@
 ---
-collection: reward
+collection: release
 layout: page
 name: places_to_give.md
 title: Places to Give
@@ -28,16 +28,13 @@ title: Places to Give
 ## Cash
 * https://www.eff.org/
 * https://www.aclu.org/
-* https://www.accessnow.org/
-* https://epic.org
 * https://www.codeforamerica.org/donate
 * https://www.patreon.com/
 * https://www.kickstarter.com
 * https://archive.org/donate/
 * https://simplysecure.org/donate/
 * https://ocw.mit.edu/index.htm
-* https://www.wired.com/2016/12/donate-protect-internet-2017/
-
+* https://epic.org (unrated charity nav)
 
 
 * http://www.fairvote.org/

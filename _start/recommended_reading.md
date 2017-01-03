@@ -11,7 +11,8 @@ Getting Started advice from well curated sources.
 
 * [https://decentsecurity.com/](https://decentsecurity.com/)
 * [https://ssd.eff.org/](https://ssd.eff.org/)
-* [https://staysafeonline.org/stay-safe-online/](https://staysafeonline.org/stay-safe-online/), the most basic.  [https://www.smartfile.com/blog/social-engineering-attacks/](https://www.smartfile.com/blog/social-engineering-attacks/)
+* [https://staysafeonline.org/stay-safe-online/](https://staysafeonline.org/stay-safe-online/), the most basic.  
+* [https://www.smartfile.com/blog/social-engineering-attacks/](https://www.smartfile.com/blog/social-engineering-attacks/)
 
 # Quick Starts
 

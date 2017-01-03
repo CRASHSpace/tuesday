@@ -5,13 +5,12 @@ name: starter_checklist.md
 title: Starter Checklist
 ---
 
-## Big Project Management 101
+## Longterm Project Management 101
 
 * Set a regular time
 * Create a visual reminder
 * Pick how to stay organized
-* Choose your rewards
-
+* Choose positive incentives
 
 ## Starter Questions
 
@@ -28,27 +27,38 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Download Signal
 
 ### The Front Door
-* Get a password manager
+* Choose a password manager
 * Move passwords and delete them from other places
 * Upgrade passwords to ones that don't suck
 * Upgrade to 2FA for logins
 * Delete accounts you don't absolutely need
 * Who has your financial information?
-  * Check your credit card / Paypal statements regularly
 * Don't rely on biometrics
 
-### Devices
-* Keep software up to date.
-* Encryption the easy way
-* Get a set of keys I
+### Devices I
+* Keep software up to date
+* Back up everything
+* Local data encryption
 * Don't download random sh*t onto secure machines/networks
-* File drops
+
+### Devices II
+* RadioDead bag
+* Isolate things that watch
+* Isolate things that listen
+* Don't plug in peripherals/drives
+* Things that make noise can listen
 
 ### Email
 * Stop trusting it
+* Pay for your account
 * Turn off autoloading of images
 * Don't click on links
 * Be suspicious of files
+
+### Alternate Communications
+* File drops
+* Messaging Apps
+* Slack, Teams, Wickr
 
 ### Paper
 * Buy a shredder
@@ -68,17 +78,9 @@ see https://ssd.eff.org/en/module/introduction-threat-modeling
 * Information on images
 
 
-
 ### Home Network
 * Get to know your router
 * Avoid IoT until security has improved
-
-### Devices
-* RadioDead bag
-* Isolate things that watch
-* Isolate things that listen
-* Don't plug in peripherals/drives
-* Things that make noise can listen
 
 ### Bad News
 * None of this is the problem - Social Engineering
