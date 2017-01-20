@@ -36,6 +36,7 @@ title: Places to Give
 * https://archive.org/donate/
 * https://simplysecure.org/donate/
 * https://ocw.mit.edu/index.htm
+* https://politiwatch.org/
 * https://www.wired.com/2016/12/donate-protect-internet-2017/
 
 

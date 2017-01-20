@@ -13,6 +13,9 @@ Getting Started advice from well curated sources.
 * [https://ssd.eff.org/](https://ssd.eff.org/)
 * [https://staysafeonline.org/stay-safe-online/](https://staysafeonline.org/stay-safe-online/), the most basic.  
 * [https://www.smartfile.com/blog/social-engineering-attacks/](https://www.smartfile.com/blog/social-engineering-attacks/)
+* https://securityinabox.org/en
+* http://www.dailydot.com/tags/digital-self-defense/
+* https://crashoverridenetwork.tumblr.com/
 
 # Quick Starts
 
