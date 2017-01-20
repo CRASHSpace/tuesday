@@ -30,6 +30,7 @@ title: News and Updates
 * https://epic.org
 * http://motherboard.vice.com/tag/cybersecurity
 * https://www.justsecurity.org/
+* https://hackaday.com/
 
 ## Twitter
 
