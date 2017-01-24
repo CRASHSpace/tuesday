@@ -12,6 +12,7 @@ title: News and Updates
 * [https://staysafeonline.org/stay-safe-online/](https://staysafeonline.org/stay-safe-online/), the most basic.  
 * [https://www.smartfile.com/blog/social-engineering-attacks/](https://www.smartfile.com/blog/social-engineering-attacks/)
 * https://safersec.org/
+* https://docs.google.com/document/d/1x_5k-LVGLpRaV0icxl_OdKtkkKdSNGv-qGtZIZIGKa0/edit
 * https://thetinhat.com/index.html
 * https://www.privacyrights.org/
 * http://www.crashoverridenetwork.com/coach.html
