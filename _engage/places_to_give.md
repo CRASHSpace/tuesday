@@ -28,6 +28,7 @@ title: Places to Give
 ## Cash
 * https://www.eff.org/
 * https://www.aclu.org/
+* http://www.aeinstein.org/
 * https://www.accessnow.org/
 * https://epic.org
 * https://www.codeforamerica.org/donate
