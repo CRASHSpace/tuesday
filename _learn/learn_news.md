@@ -37,4 +37,5 @@ title: News and Updates
 
 * https://twitter.com/carlynorama/lists/tuesday
 
-## Longer List
+## Courses
+* https://www.sans.org/courses/
