@@ -16,6 +16,7 @@ title: News and Updates
 * https://thetinhat.com/index.html
 * https://www.privacyrights.org/
 * http://www.crashoverridenetwork.com/coach.html
+* https://www.wnyc.org/story/privacy-paradox-tip-sheet
 
 
 ## Weekly Sweep Short List

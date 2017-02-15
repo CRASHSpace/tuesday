@@ -16,10 +16,11 @@ Getting Started advice from well curated sources.
 * https://securityinabox.org/en
 * http://www.dailydot.com/tags/digital-self-defense/
 * https://crashoverridenetwork.tumblr.com/
+* https://www.wnyc.org/story/privacy-paradox-tip-sheet
 
 # Quick Starts
 
-Articles that swear they'll get you secure fast. It's a useful premise to get you stared, and the onse included do have useful tips.  
+Articles that swear they'll get you secure fast. It's a useful premise to get you stared, and the ones included do have useful tips.  
 
 * https://techcrunch.com/2016/11/11/tech-tips-to-help-stay-safe-in-trumps-america/
 * https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.zbjofgq5e
