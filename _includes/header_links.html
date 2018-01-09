@@ -2,5 +2,3 @@
 {% for item in site.data.collection_nav.nav %}
   <a class="page-link" href="{{ item.url | relative_url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
 {% endfor %}
-
-| relative_url
