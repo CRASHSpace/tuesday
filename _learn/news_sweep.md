@@ -9,16 +9,18 @@ title: News and Updates
 * <http://arstechnica.com/security/>
 * <https://www.schneier.com/>
 * <http://krebsonsecurity.com/>
-* <https://tisiphone.net/>
+* <https://www.sans.org/security-resources/blogs>
+* <https://www.eff.org/deeplinks>
 * <http://www.niemanlab.org/>
 * <https://www.wired.com/category/security/threatlevel/>
-* <https://www.eff.org/deeplinks>
+* <https://tisiphone.net/>
 * <https://epic.org>
 * <http://motherboard.vice.com/tag/cybersecurity>
 * <https://www.justsecurity.org/>
 * <https://hackaday.com/>
 * <http://security.stackexchange.com/>
 * <http://www.darkreading.com/>
+* <https://www.consumerreports.org/cro/electronics-computers/guide-to-internet-security/index.htm>
 
 ## Twitter
 
