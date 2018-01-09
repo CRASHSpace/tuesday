@@ -1,0 +1,17 @@
+nav_title: Getting Started Guides
+gsg:
+
+- title: Start Here
+  url: start
+
+- title: Sweep
+  url: sweep
+
+- title: Learn
+  url: learn
+
+- title: Engage
+  url: engage
+
+- title: Relax
+  url: relax
