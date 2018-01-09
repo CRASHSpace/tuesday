@@ -2,7 +2,7 @@
 collection: start
 layout: threat_actor
 name: ta_santa_clause.md
-title: Threat Actor: Santa Claus
+title: Threat Actor, Santa Claus
 alias: St. Nicholas, Santa Claus,
 handels: elfinat0r, nullGift, w0nderPresent
 locations: North Pole
