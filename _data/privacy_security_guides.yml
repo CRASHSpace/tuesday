@@ -1,17 +1,43 @@
-nav_title: Getting Started Guides
+ --- # Currently Recs
+group_title: Getting Started Guides
 gsg:
 
-- title: Start Here
-  url: start
+- title: Privacy Paradox Tip Sheet
+  url: https://www.wnyc.org/story/privacy-paradox-tip-sheet/
 
-- title: Sweep
-  url: sweep
+- title: crashoverridenetwork privacy coach
+  url: http://www.crashoverridenetwork.com/coach.html
 
-- title: Learn
-  url: learn
+- title: EFF Surveillance Self Defense resources
+  url: https://ssd.eff.org/
 
-- title: Engage
-  url: engage
+- title: Wired Guide to Digital Security
+  url: https://www.wired.com/2017/12/digital-security-guide/
 
-- title: Relax
-  url: relax
+- title: Motherboard Guide to Avoiding State Surveillance
+  url: https://motherboard.vice.com/en_us/article/a37m4g/the-motherboard-guide-to-avoiding-state-surveillance-privacy-guide
+
+- title: Digital Security Low Hanging Fruit
+  url: https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/
+
+- title: Do It Yourself Online Safety
+  url: https://chayn.co/safety/
+  
+ --- # Wait to Reccomend
+group_title: Depricated Getting Started Guides
+dgsg:
+
+- title: Stay Safe Online Basics
+  url: https://staysafeonline.org/stay-safe-online/
+
+- title: Digital Security & Privacy for Human Rights Defenders
+  url: https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders
+
+- title: Do It Yourself Online Safety
+  url: https://chayn.co/safety/
+
+- title: Safe(r) Sec: Bootcamp for activisits and journalists
+  url: https://safersec.org/
+
+- title: Security in a box
+  url: https://securityinabox.org/en/
