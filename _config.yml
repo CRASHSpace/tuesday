@@ -20,7 +20,6 @@ repo_name: tuesday
 markdown: kramdown
 
 collections:
-  permalink: '/:collection/:path/'
   start:
     output: true
     title: Start Here

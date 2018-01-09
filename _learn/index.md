@@ -3,7 +3,7 @@ layout: default
 title: Start Here
 ---
 
-{% for item in site.start %}
+{% for item in site.engage %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>
