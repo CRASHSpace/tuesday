@@ -1,8 +1,8 @@
 ---
 collection: start
 layout: page
-name: starter_checklist.md
-title: Starter Checklist
+name: 04-pick-an-easy-win.md
+title: Pick an easy win
 ---
 
 

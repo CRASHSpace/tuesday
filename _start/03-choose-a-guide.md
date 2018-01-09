@@ -1,8 +1,8 @@
 ---
 collection: start
 layout: page
-name: starter_checklist.md
-title: Starter Checklist
+name: 03-choose-a-guide.md
+title: Choose a guide
 ---
 
 ## Longterm Project Management 101
