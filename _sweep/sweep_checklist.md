@@ -5,14 +5,6 @@ name: sweep_checklist.md
 title: Sweep Checklist
 ---
 
-## I am the weakest link
-
-1. What did I do that I knew better than? Why?
-2. What would have made it easier to do the right thing?
-3. Change: Make it, schedule making it, ask the community, drop a note to who can change it.
-
-## Perimeter
-
 * Software up to date on all devices
 * Check backups
 * Check logs
@@ -31,11 +23,3 @@ title: Sweep Checklist
 * Delete or archive files from downloads folder
 * Delete or archive email off of server
 * Deleted Apps not using from mobile device(s)
-
-* Keep going on the [starter check](../start/starter_checklist.html) list
-
-## Project Management Check In
-
-* Still a good time?
-* What's working? Not working?
-* New rewards?

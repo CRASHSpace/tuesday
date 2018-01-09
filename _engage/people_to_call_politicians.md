@@ -4,8 +4,8 @@ layout: page
 name: people_to_call_politicians.md
 title: Politicians
 ---
-* https://docs.google.com/document/d/1u4tNTmxM4d_ZuLuWZkfVc8srwIodhcl_nMh4KzgckMs/edit?usp=sharing
-* http://www.tablesgenerator.com/markdown_tables
+* <https://docs.google.com/document/d/1u4tNTmxM4d_ZuLuWZkfVc8srwIodhcl_nMh4KzgckMs/edit?usp=sharing>
+* <http://www.tablesgenerator.com/markdown_tables>
 
 | Level                 | Office                     | Next Election | Name | Phone Number | Web Address                                                                      | Address Line 1 | Address Line 2 | City | State | Zip | Email Address |
 |-----------------------|----------------------------|---------------|------|--------------|----------------------------------------------------------------------------------|----------------|----------------|------|-------|-----|---------------|

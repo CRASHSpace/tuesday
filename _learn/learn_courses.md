@@ -12,6 +12,7 @@ title: Courses
 * https://www.theengineroom.org/levelup-digital-security-training-resource/
 * https://www.concise-courses.com/hacking-tools/encryption-tools/
 * http://callingbullshit.org/syllabus.html
+* https://www.eff.org/deeplinks/2017/11/announcing-security-education-companion
 
 ## Getting Started in the Career
 * https://www.quora.com/How-do-I-start-ethical-hacking

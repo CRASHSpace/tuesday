@@ -5,14 +5,6 @@ name: server_sweep_checklist.md
 title: Sweep Checklist, Server Edition
 ---
 
-## I am the weakest link
-
-1. What did I do that I knew better than? Why?
-2. What would have made it easier to do the right thing?
-3. Change: Make it, schedule making it, ask the community, drop a note.
-
-## Perimeter
-
 * Software up to date
 * Check backups
 * Check logs
