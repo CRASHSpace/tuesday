@@ -14,11 +14,7 @@
       </a>
 
       <div class="trigger">
-        {% for collection in site.collections %}
-        {% unless collection.label == 'posts' %}
-            <a class="page-link" href="{{ site.baseurl }}/{{ collection.label | remove: "_" }}">{{ collection.title }}</a>
-        {% endunless %}
-        {% endfor %}
+        {% include header_links.html %}
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
