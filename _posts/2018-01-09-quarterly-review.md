@@ -6,25 +6,36 @@ author: carlynorama
 categories: quarterly
 ---
 
-So, I’ve been posting here every week to back up and update your gear. I talk a big game, but I get busy and goof off myself like everyone else. It makes sense to look at the bigger picture a few times a year and update what isn’t working. Also, some tasks that don’t need to be done every week, but should be done periodically. This isn’t a perfect list or a full one. Let me know what you think should be on the list in January!
+Once a quarter it's time to revisit some of the more time consuming tasks. At the start of the year it's maybe time to hit up some of the more organizational tasks.
+
+## How's the Tuesday Sweep been working for you?
+* Is the day and time right?
+* Is it time to update your threat model?
+* Is your check list still appropriate?
+* Is where you get your news still current?
 
 ## Back Ups, Updates, Certificates
 
 *   Try restoring your systems from back up. It’s not a [back-up system](https://blog.crashspace.org/2016/11/one-thing-to-do-today-tuesday-sweep-where-are-your-backups/) if it doesn’t work.
 *   If you don’t have a cloud-based back up program, when was the last time you swapped the offsite copy of your files?
 *   SSL Certificates for your sites. When do they expire?
-*   Think about major software updates and code overhauls. Is there a new platform that would be a better choice for what you’re doing? This could be a new operating system, maybe a new language or looking into containers. Start planning this fall for the work you’ll do next year.
+
+## Software Review
+*   Fall quarter emphasized planning software updates and code overhauls. What have you done?
+*   Software as a service check:
+  * Are all your subscription up to date?
+  * Anyone billing you who shouldn't be? (Check your credit card bills for misc charges)  
 
 ## Hardware Review
 
-*   Things with moving parts are more likely to fail. What drives can you move to an SSD?
-*   Batteries get old, how’s yours doing?
+*   What new hardware do you have? Is it set up correctly? How does it stay up to date and backed up? Is it on your check list?
+*   What hardware seems on it's last legs? Hardrive motors likely to fail?
+*   Batteries get old, how’s yours doing? Can it be replaced?
 *   [Oil your paper shredder](https://lifehacker.com/5875771/oil-your-paper-shredder-with-canola-oil-to-keep-it-running-in-top-shape).
-*   Holiday wishlist time, what might go on sale between now and the end of the year?
 
 ## Personal Information & Emergency Supplies
 
-*   Get a copy of a credit report from one of the reporting bureaus. Check to make sure your credit is still frozen.
+*   Get a copy of a credit report from a different reporting bureaus than you did last fall. Check to make sure your credit is still frozen.
 *   When was the last time you checked the validity of your Emergency Plan and the content of both your stay-kit and go-bag?
     *   [California Resources](http://www.caloes.ca.gov/)
     *   [Federal Resources](https://www.ready.gov/make-a-plan)
