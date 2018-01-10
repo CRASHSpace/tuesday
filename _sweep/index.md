@@ -6,10 +6,9 @@ navexclude: true
 
 {% for item in site.sweep %}
 {% unless item.navexclude == true %}
-  ## [{{ item.title }}]({{ item.url | relative_url }})
-
-  {{ item.description }}
-
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url | relative_url }}">{{ item.title }}</a></p>
   {{ item.content }}
 {% endunless %}
 {% endfor %}
