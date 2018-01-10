@@ -8,6 +8,6 @@ navexclude: true
 {% unless item.navexclude == true %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
-  <p><a href="{{ item.url | relative_url }}">{{ item.title }}</a></p>
+  {{ item.content }}
 {% endunless %}
 {% endfor %}

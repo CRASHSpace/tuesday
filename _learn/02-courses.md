@@ -1,11 +1,11 @@
 ---
 collection: learn
 layout: page
-name: learn_courses.md
+name: 02-courses.md
 title: Courses
 ---
 
-## Courses
+### General Courses
 * <https://www.sans.org/courses/>
 * <https://cybersecuritybase.github.io/>
 * <https://www.level-up.cc/>
@@ -14,7 +14,7 @@ title: Courses
 * <http://callingbullshit.org/syllabus.html>
 * <https://www.eff.org/deeplinks/2017/11/announcing-security-education-companion>
 
-## Getting Started in the Career
+### Getting Started in the Career Info
 * <https://www.quora.com/How-do-I-start-ethical-hacking>
 * <https://github.com/gradiuscypher/infosec_getting_started>
 * <https://tisiphone.net/2016/02/10/starting-an-infosec-career-the-megamix-chapter-6/>
