@@ -2,6 +2,7 @@
 layout: post
 title: Quarterly Review&#58 09 Jan 2018
 date: 2018-01-02 13:37:17
+author: carlynorama
 categories: quarterly
 ---
 
