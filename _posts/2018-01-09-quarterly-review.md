@@ -6,13 +6,14 @@ author: carlynorama
 categories: quarterly
 ---
 
-Once a quarter it's time to revisit some of the more time consuming tasks. At the start of the year it's maybe time to hit up some of the more organizational tasks. For me this first quarter of 2018 I finally made some progress on the [git repo](https://carlynorama.github.io/tuesday/). I had stalled on setting up the template months ago and I finally pushed through it. I wanted more of a Tuesday-Sweep dashboard that other folks could clone and make their own. It's not there yet but I've gotten over some of the major Jekyll structural hurdles that were keeping me back.
+Once a quarter it’s time to revisit some of the more time consuming tasks. At the start of the year it’s maybe time to hit up some of the more organizational tasks. For me this first quarter of 2018 I’m finally making progress on the [git repo](https://carlynorama.github.io/tuesday/). I had stalled on setting up the template months ago and I finally pushed through it. I’m looking to create more of a Tuesday-Sweep dashboard. One that others could potentially clone and make their own. It’s not there yet but I’ve gotten over some of the major Jekyll structural hurdles that were keeping me back.
 
-## How's the Tuesday Sweep been working for you?
-* Is the day and time right?
-* Is it time to update your threat model?
-* Is your check list still appropriate?
-* Is where you get your news still current?
+## How’s the Tuesday Sweep been working for you?
+
+*   Is the day and time right?
+*   Is it time to update the threat model?
+*   Is your check list still appropriate?
+*   Is where you get your news still current?
 
 ## Back Ups, Updates, Certificates
 
@@ -21,16 +22,20 @@ Once a quarter it's time to revisit some of the more time consuming tasks. At th
 *   SSL Certificates for your sites. When do they expire?
 
 ## Software Review
+
 *   Fall quarter emphasized planning software updates and code overhauls. What have you done?
 *   Software as a service check:
-  * Are all your subscription up to date?
-  * Anyone billing you who shouldn't be? (Check your credit card bills for misc charges)  
+    *   Are all your subscription up to date?
+    *   Anyone billing you who shouldn’t be? (Check your credit card bills for misc charges)
 
 ## Hardware Review
 
-*   What new hardware do you have? Is it set up correctly? How does it stay up to date and backed up? Is it on your check list?
-*   What hardware seems on it's last legs? Hardrive motors likely to fail?
-*   Batteries get old, how’s yours doing? Can it be replaced?
+*   What new hardware do you have?
+    *   Is it set up correctly?
+    *   How does it stay up to date and backed up?
+    *   Is it on your check list?
+*   What hardware seems on it’s last legs? Hardrive motors likely to fail?
+*   Batteries get old, how’s yours doing? [Can it be replaced](https://www.macrumors.com/2018/01/08/battery-replacements-sometimes-one-per-iphone/)?
 *   [Oil your paper shredder](https://lifehacker.com/5875771/oil-your-paper-shredder-with-canola-oil-to-keep-it-running-in-top-shape).
 
 ## Personal Information & Emergency Supplies
