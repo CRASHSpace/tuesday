@@ -11,3 +11,4 @@ title: Pick an easy win
 * Choose a password manager
 * Buy a shredder
 * Install a browser extension
+* Switch your search engine
