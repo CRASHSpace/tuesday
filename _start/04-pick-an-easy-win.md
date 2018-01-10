@@ -10,3 +10,4 @@ title: Pick an easy win
 * Download Signal
 * Choose a password manager
 * Buy a shredder
+* Install a browser extension
