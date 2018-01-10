@@ -1,12 +1,16 @@
 ---
 collection: learn
 layout: page
-name: learn_news.md
+name: 01-news.md
 title: News and Updates
 ---
 
-## Weekly Sweep Short List
-* <http://arstechnica.com/security/>
+### Podcasts
+* [Note To Self](https://www.npr.org/podcasts/452538677/note-to-self)
+* [Data&Society](https://listen.datasociety.net/)
+
+### Weekly Sweep Websites
+* <http://arstechnica.com/>
 * <https://www.schneier.com/>
 * <http://krebsonsecurity.com/>
 * <https://www.sans.org/security-resources/blogs>
@@ -15,6 +19,7 @@ title: News and Updates
 * <https://www.wired.com/category/security/threatlevel/>
 * <https://tisiphone.net/>
 * <https://epic.org>
+* <https://datasociety.net/>
 * <http://motherboard.vice.com/tag/cybersecurity>
 * <https://www.justsecurity.org/>
 * <https://hackaday.com/>
@@ -22,6 +27,5 @@ title: News and Updates
 * <http://www.darkreading.com/>
 * <https://www.consumerreports.org/cro/electronics-computers/guide-to-internet-security/index.htm>
 
-## Twitter
-
-* <https://twitter.com/carlynorama/lists/tuesday
+### Twitter List
+* <https://twitter.com/carlynorama/lists/tuesday>
