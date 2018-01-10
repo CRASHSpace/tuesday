@@ -4,10 +4,8 @@ title: Start Here
 navexclude: true
 ---
 
-{% for item in site.relax %}
-{% unless item.navexclude == true %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url | relative_url }}">{{ item.title }}</a></p>
-{% endunless %}
-{% endfor %}
+## Kittens
+* http://emergencykittens.tumblr.com/
+* http://www.emergencykitten.com/
+* https://twitter.com/emrgencykittens?lang=da
+* https://www.youtube.com/results?search_query=kittens
