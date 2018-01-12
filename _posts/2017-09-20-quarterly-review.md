@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quarterly Review&#58 09 Jan 2018
+title: Quarterly Review&#58 20 Sept 2018
 date: 2017-09-20 13:37:17
 author: carlynorama
 categories: quarterly
