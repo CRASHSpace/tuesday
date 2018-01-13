@@ -1,7 +1,6 @@
 group_title: Basic Weekly Checklist
 bwc:
 
-
 - title: Check back-up settings laptop
   short_description: When was the last back up scheduled to run? Was it successful?
 
