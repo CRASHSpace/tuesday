@@ -1,0 +1,30 @@
+group_title: Basic Weekly Checklist
+bwc:
+
+
+- title: Check back-up settings laptop
+  short_description: When was the last back up scheduled to run? Was it successful?
+
+- title: Update laptop
+  short_description: Plugin and run check
+
+- title: Check back-up setting phone
+  short_description: What new apps? Is all the data synced somewhere?
+
+- title: Update phone
+  short_description: Plugin and run check
+
+- title: Weed phone apps
+  short_description: What haven't you used in awhile? Can it go?
+
+- title: Weed accounts
+  short_description: Check email, CC bills, paypal, and password managers (including system and ) for notices from accounts that are open but not in use. Close them down.
+
+- title: Weed stored WiFi networks
+  short_description: WiFi networks stored can be used to create a unique profile, move the passwords to your password manager and then delete them when possible.
+
+- title: Any feature or privacy policy updates?
+  short_description: Make sure none of your social networks has added a feature that exposes your privacy lately.
+
+- title: Anyone added two factor authentication?
+  short_description: More and more places make it possible to turn on 2FA, anywhere you haven't turned it on yet?
