@@ -4,7 +4,7 @@ layout: checklist
 name: checklist.md
 title: Basic Checklist
 ---
-<text x="0" y="0">{{page.title}} for  {{ "now" | date: "%Y-%m-%d %H:%M" }}</text>
+<text x="0" y="0">{{page.title}} for  {{ "now" | date: "%Y-%m-%d" }}</text>
 <g id="list" transform="translate(0, 150)">
 {% assign todolist_count = '' %}
 {% for item in site.data.basic_weekly_checklist.bwc %}
