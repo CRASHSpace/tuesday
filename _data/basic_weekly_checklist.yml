@@ -14,13 +14,13 @@ bwc:
 - title: Update phone
   short_description: Plugin and run check
 
-- title: Weed phone apps
+- title: Prune phone apps
   short_description: What haven't you used in awhile? Can it go?
 
-- title: Weed accounts
+- title: Prune accounts
   short_description: Check email, CC bills, paypal, and password managers (including system and ) for notices from accounts that are open but not in use. Close them down.
 
-- title: Weed stored WiFi networks
+- title: Prune stored WiFi networks
   short_description: WiFi networks stored can be used to create a unique profile, move the passwords to your password manager and then delete them when possible.
 
 - title: Any feature or privacy policy updates?
