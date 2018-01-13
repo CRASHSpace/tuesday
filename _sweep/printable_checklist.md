@@ -3,6 +3,7 @@ collection: sweep
 layout: checklist
 name: checklist.md
 title: Basic Checklist
+navexclude: true
 ---
 <text x="0" y="0">{{page.title}} for  {{ "now" | date: "%Y-%m-%d" }}</text>
 <g id="list" transform="translate(0, 150)">
