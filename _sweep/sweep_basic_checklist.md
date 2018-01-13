@@ -11,3 +11,5 @@ title: Basic Checklist
 *   Move to offline archive & delete your histories where you can [find them](https://support.google.com/accounts/answer/7028918).
 *   Double check [privacy settings](https://blog.crashspace.org/2016/12/one-thing-to-do-today-if-one-must-use-social-media-follow-army-rules/) on your phone, [social media accounts](https://ssd.eff.org/en/module/protecting-yourself-social-networks). The folks running the companies can change the TOS and add “[features](https://ssd.eff.org/en/module/facebook-groups-reducing-risks)” before you notice them.
 *   Have you [frozen your credit yet](https://www.equifaxfraudprevention.com/)?
+
+[Printable checklist](printable_checklist.html)
