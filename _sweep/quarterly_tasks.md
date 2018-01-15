@@ -1,8 +1,8 @@
 ---
 collection: sweep
 layout: page
-name: sweep_hobby_server.md
-title: Sweep, Hobby Server Edition
+name: quarterly_tasks.md
+title: Quarterly Tasks
 ---
 ## How’s the Tuesday Sweep been working for you?
 
