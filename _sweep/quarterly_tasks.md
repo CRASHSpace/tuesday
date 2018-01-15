@@ -14,13 +14,16 @@ title: Sweep, Hobby Server Edition
 
 ## Updates
 
-* Login to your router and check what devices are connected. Are they all on your checklist of things to update? What's been low priority?
+* Login to your router and check what devices are connected. Are they all on your checklist of things to update?
+  * Computers, phones, tablets, gaming systems, IoT devices, printers, random DIY projects, etc.
+* What's been too low priority to do every week? Do that now.
+* SSL Certificates for your sites. When do they expire?
 
-## Back Ups,  Certificates
+## Back Ups,  Arichive
 
 *   Try restoring your systems from back up. It’s not a [back-up system](https://blog.crashspace.org/2016/11/one-thing-to-do-today-tuesday-sweep-where-are-your-backups/) if it doesn’t work.
 *   If you don’t have a cloud-based back up program, when was the last time you swapped the offsite copy of your files?
-*   SSL Certificates for your sites. When do they expire?
+*   If not part of weekly tasks, move email to offline backup
 
 ## Software Review
 
@@ -35,7 +38,7 @@ title: Sweep, Hobby Server Edition
     *   Is it set up correctly?
     *   How does it stay up to date and backed up?
     *   Is it on your check list?
-*   What hardware seems on it’s last legs? Hardrive motors likely to fail?
+*   What hardware seems on it’s last legs? Hardrive motors fail. Computer cords get chewed on...
 *   Batteries get old, how’s yours doing? [Can it be replaced](https://www.macrumors.com/2018/01/08/battery-replacements-sometimes-one-per-iphone/)?
 *   [Oil your paper shredder](https://lifehacker.com/5875771/oil-your-paper-shredder-with-canola-oil-to-keep-it-running-in-top-shape).
 
