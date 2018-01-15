@@ -11,10 +11,10 @@ showonindexas: none
 {{ item.content }}
 {% endfor %}
 
-### Other Checklists
+## Other Checklists
 
 {% assign itemstolink = (site.sweep | where: "showonindexas" , "link") %}
 {% for item in itemstolink %}
-<h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+<h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
 <p>{{ item.description }}</p>
 {% endfor %}
