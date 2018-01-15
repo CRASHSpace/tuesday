@@ -1,16 +1,16 @@
 group_title: Basic Weekly Checklist
 bwc:
 
-- title: Check back-up settings laptop
+- title: Check back-up settings main computer
   short_description: When was the last back up scheduled to run? Was it successful?
 
-- title: Update laptop
+- title: Update main computer
   short_description: Plugin and run check
 
-- title: Check back-up setting phone
+- title: Check back-up setting phones & tablets
   short_description: What new apps? Is all the data synced somewhere?
 
-- title: Update phone
+- title: Update phones & tablets
   short_description: Plugin and run check
 
 - title: Prune phone apps
