@@ -3,7 +3,7 @@ collection: sweep
 layout: checklist
 name: checklist.md
 title: Basic Checklist
-navexclude: true
+showonindexas: none
 ---
 <text x="0" y="0">{{page.title}}</text>
 <g id="list" transform="translate(0, 150)">

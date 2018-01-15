@@ -3,6 +3,7 @@ collection: sweep
 layout: page
 name: quarterly_tasks.md
 title: Quarterly Tasks
+showonindexas: link
 ---
 ## How’s the Tuesday Sweep been working for you?
 
