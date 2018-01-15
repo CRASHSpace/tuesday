@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: sweep_hobby_server.md
 title: Sweep, Hobby Server Edition
-showonindexas: full
+showonindexas: link
 ---
 
 
