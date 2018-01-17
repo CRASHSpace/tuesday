@@ -42,6 +42,7 @@ Where do you [scan for news](https://carlynorama.github.io/tuesday/learn/)?
     * [Why the Raspberry Pi isn't Vulnerable](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
 *   Hawaii
     *   The very true [Bad UI’s Kill take](https://www.ixquick.com/do/dsearch?query=bad+UI+Kills&cat=web&pl=opensearch&language=english) from [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2018/01/14/hawaii-missile-alert-how-one-employee-pushed-the-wrong-button-and-caused-a-wave-of-panic/?utm_term=.eb47c9eece40). [Human centered design](https://www.plusacumen.org/courses/introduction-human-centered-design), folks, with [hackers of all kinds](https://blog.crashspace.org/2016/12/one-thing-to-do-today-threat-model-part-2-who-is-the-threat-anyway/) as part of your [Use Case Scenario](http://www.humanfactors.com/newsletters/tell_me_the_story.asp).
+    * [The actual UI](https://boingboing.net/2018/01/16/bad-design-this-is-the-menu-w.html) (boingboing)
 *   CES Round-ups & Critiques
     *   See the [Intel Keynote opening Band](https://newsroom.intel.com/news/2018-ces-keynote-intel-brian-krzanich/) orchestrated by CRASH Community’s own Matt Pinner
     *   [Hack-a-Day](https://hackaday.com/2018/01/14/hackaday-links-the-s-in-ces-stands-for-snake-oil/)
