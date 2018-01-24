@@ -26,6 +26,9 @@ title: Places to Give
 * [Code for America](https://www.codeforamerica.org/)
 * [OpenHatch](https://openhatch.org/)
 
+### Give Computing Power
+* <https://boinc.berkeley.edu/>
+
 ### Give Cash
 * <https://www.eff.org/>
 * <https://www.aclu.org/>

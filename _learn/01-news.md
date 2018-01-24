@@ -23,9 +23,12 @@ title: News and Updates
 * <http://motherboard.vice.com/tag/cybersecurity>
 * <https://www.justsecurity.org/>
 * <https://hackaday.com/>
+* <https://www.sparkfun.com/news>
+* <https://blog.adafruit.com/>
 * <http://security.stackexchange.com/>
 * <http://www.darkreading.com/>
 * <https://www.consumerreports.org/cro/electronics-computers/guide-to-internet-security/index.htm>
+* <https://www.citylab.com>
 
 ### Twitter List
 * <https://twitter.com/carlynorama/lists/tuesday>
