@@ -8,7 +8,7 @@ categories: tuesdaysweep
 
 Post on [CRASH Space](https://blog.crashspace.org/2018/01/tuesday-sweep-23-january-2018/)
 
-Whew! Lots to catch up on since the beginning fo January. Let’s get to it in this, your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to go to the CRASH Space meeting…)
+Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to go to the CRASH Space meeting…)
 
 ### Jump in Here
 
