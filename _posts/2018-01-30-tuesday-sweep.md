@@ -61,4 +61,6 @@ We are a community. You are a welcome part of it.
 
 ## Relax
 
-Pottery YouTube is another place to get lost. Here is [Hsinchuen Lin](https://www.youtube.com/channel/UCgOv-bHeFHnbZE_2fs6YTdQ?&ab_channel=HsinchuenLin) throwing [a tall flower vase](https://www.youtube.com/watch?v=B0okTX7Ior8&ab_channel=HsinchuenLin).
+PUPPY!!!!
+
+![alt text](https://i.imgur.com/nxOU7qr.gifv "puppy does not give up and climbs out of hole")
