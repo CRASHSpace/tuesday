@@ -61,6 +61,4 @@ We are a community. You are a welcome part of it.
 
 ## Relax
 
-PUPPY!!!!
-
-![alt text](https://i.imgur.com/nxOU7qr.gifv "puppy does not give up and climbs out of hole")
+[PUPPY!!!!](https://i.imgur.com/nxOU7qr.gifv)
