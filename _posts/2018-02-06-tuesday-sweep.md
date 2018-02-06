@@ -7,9 +7,9 @@ categories: tuesdaysweep
 ---
 
 Post on [CRASH Space](https://blog.crashspace.org/2018/02/tuesday-sweep-6-february-2018/)
-
-
 Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to go to the CRASH Space meeting…)
+
+As I am writing up I am listening to the Senate Hearing: [Data Security and Bug Bounty Programs: Lessons Learned from the Uber Breach and Security Researchers](https://www.commerce.senate.gov/public/index.cfm/hearings?ID=73871FA8-29AD-4ED5-ABB8-C86B4BE4E0A3)
 
 ### Jump in Here
 
@@ -33,18 +33,20 @@ The basics slightly revised and with a [printable checklist](https://carlynorama
 
 Where do you [scan for news](https://carlynorama.github.io/tuesday/learn/)?
 
-*   Blah blah blah… Tonight – [IoT and Victorian manners talk](https://www.meetup.com/Hackaday-Los-Angeles/events/246422397/)… Hackaday January Meetup in Pasadena
-*   Ian Bogost mediates [metaphysics of followers on Twitter](https://www.theatlantic.com/technology/archive/2018/01/all-followers-are-fake-followers/551789/) in response to the news that some popular folks [bought theirs](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html).
-*   So… wanna [find some military bases](https://www.wired.com/story/strava-heat-map-military-bases-fitness-trackers-privacy/) in health-tracker data? Guess not everyone sat through the [presentation](https://blog.crashspace.org/2016/12/one-thing-to-do-today-if-one-must-use-social-media-follow-army-rules/).
-*   The [F-Droid App store](https://f-droid.org/en/) might be a [better choice to find Android apps](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/).
-*   Call your Cal Sate Senator especially if he’s [Sen. Kevin de León](http://sd24.senate.ca.gov/) of LA. Say THANK YOU… for [supporting Net Neutrality](https://arstechnica.com/tech-policy/2018/01/california-senate-approves-net-neutrality-law-in-defiance-of-fcc/). Then call you assembly person and them you support [SB-460](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB460) and want them to pass it to.
-*   [Internet Insecurity Ain’t Cheap](https://www.schneier.com/blog/archives/2018/01/estimating_the_.html).
-*   Pro Tip: [File your taxes early](https://krebsonsecurity.com/2018/01/file-your-taxes-before-scammers-do-it-for-you/).
-*   Nifty breakthrough: Hiding [grayscale images in laser beams](https://www.nature.com/articles/lsa2017129). via [Reddit](https://www.reddit.com/r/science/comments/7tx993/highresolution_grayscale_image_hidden_in_a_laser/)
-*   PATCH NOW:
-    *   [Lenovo Users](https://arstechnica.com/information-technology/2018/01/lenovo-fixes-hard-coded-password-and-weak-crypto-in-fingerprint-manager/)
-    *   [WebVPN](https://arstechnica.com/information-technology/2018/01/cisco-drops-a-mega-vulnerability-alert-for-vpn-devices/)
-    *   [WordPress](https://arstechnica.com/information-technology/2018/01/more-than-2000-wordpress-websites-are-infected-with-a-keylogger/)
+*   You’ve heard me yammer on, now here is the video [Hackaday LA Meetup : Carlyn Maw ‘A Social Life for IoT’](https://www.youtube.com/watch?v=hxkCkd8psEM&feature=youtu.be&ab_channel=HACKADAY)
+*   Some great reading this February?
+    *   Algorithms of Oppression ([Publisher Link](https://nyupress.org/books/9781479837243/) | [Amazon Afil Link](http://amzn.to/2C0hy6j))
+    *   Hidden Figures ([Publisher Link](https://www.harpercollins.com/9780062798954/hidden-figures-illustrated-edition) | [Amazon Afil Link](http://amzn.to/2BZLVto))
+*   Working with privacy and security issues can become very disheartening when no one seems to care. [You aren’t alone](https://hackernoon.com/dealing-with-security-nihilists-b08e9f87052c).
+*   Really neat code to take [STL files and turn them in SVGs](https://trmm.net/Hidden_Wireframe). Thanks [Trammel Hudson](https://trmm.net)!
+*   [Investigating the Bridge Between Engineering and Art with Sara Hendren](https://makezine.com/2018/02/02/engineering-art-bridge/)
+*   The Tristan Harris’ [Center for Humane Technology](http://humanetech.com/) has been [much in](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/) [the news](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html) [this week](https://www.npr.org/sections/ed/2018/02/05/579554273/screen-addiction-among-teens-is-there-such-a-thing). I don’t know what they’ll really accomplish, but I wish them the best. (Watch [Harris’ TED talk](https://www.youtube.com/watch?v=C74amJRp730&ab_channel=TED). )
+*   “[The Framework Project](https://www.theframeworkproject.com) is an interview series with individuals in tech who spend a lot of time thinking about tech and its impact on society.” run by [Jackie Luo](http://jackieluo.com/)
+*   Bunhy on how to [incentivize transparency](https://www.bunniestudios.com/blog/?p=5127) in manufactures.
+*   Sex toys make for an excellent test case when trying to think about how to design IoT devices that respect the privacy and security of the end users. [Sarah Jamie Lewis](https://mobile.twitter.com/SarahJamieLewis/) wrote a [great thread](https://mobile.twitter.com/SarahJamieLewis/status/960319775149731842) on how to get started in response to the [Wired article on the “squishy ethics” of sex toys](https://www.wired.com/story/sex-robot-ethics/) that ran this week.
+*   What [Section 702 reauthorization](https://www.schneier.com/blog/archives/2018/01/after_section_7.html) means (schneier.com)
+*   20 years ago the phrase “open source” was [coined by Christine Peterson](https://opensource.com/article/18/2/coining-term-open-source-software). Celebrate by donating to the [Open Source Initiative](https://opensource.org/donate) or [Open Source Hardware Association](https://www.oshwa.org/) or both!
+*   I just really like these [Paper Campers](https://www.designboom.com/art/vera-van-wolferen-paper-campers-02-04-2018/) by vera van wolferen.
 
 ### Reflect
 
@@ -61,4 +63,4 @@ We are a community. You are a welcome part of it.
 
 ## Relax
 
-[PUPPY!!!!](https://i.imgur.com/nxOU7qr.gifv)
+Did you know that there were [THOUSANDS of images](https://www.loc.gov/pictures/) in the public domain at the Library of Congress? Introduce yourself to a bunch of them with this [Photo Roulette game](https://loc-photo-roulette.glitch.me/) that asks you to guess the date of a random image from the collection. [Made with glitch](https://glitch.com/).
