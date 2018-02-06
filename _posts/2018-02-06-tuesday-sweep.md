@@ -7,6 +7,7 @@ categories: tuesdaysweep
 ---
 
 Post on [CRASH Space](https://blog.crashspace.org/2018/02/tuesday-sweep-6-february-2018/)
+
 Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to go to the CRASH Space meeting…)
 
 As I am writing up I am listening to the Senate Hearing: [Data Security and Bug Bounty Programs: Lessons Learned from the Uber Breach and Security Researchers](https://www.commerce.senate.gov/public/index.cfm/hearings?ID=73871FA8-29AD-4ED5-ABB8-C86B4BE4E0A3)
