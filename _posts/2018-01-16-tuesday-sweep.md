@@ -44,7 +44,7 @@ Where do you [scan for news](https://carlynorama.github.io/tuesday/learn/)?
     *   The very true [Bad UI’s Kill take](https://www.ixquick.com/do/dsearch?query=bad+UI+Kills&cat=web&pl=opensearch&language=english) from [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2018/01/14/hawaii-missile-alert-how-one-employee-pushed-the-wrong-button-and-caused-a-wave-of-panic/?utm_term=.eb47c9eece40). [Human centered design](https://www.plusacumen.org/courses/introduction-human-centered-design), folks, with [hackers of all kinds](https://blog.crashspace.org/2016/12/one-thing-to-do-today-threat-model-part-2-who-is-the-threat-anyway/) as part of your [Use Case Scenario](http://www.humanfactors.com/newsletters/tell_me_the_story.asp).
     * [The actual UI](https://boingboing.net/2018/01/16/bad-design-this-is-the-menu-w.html) (boingboing)
 *   CES Round-ups & Critiques
-    *   See the [Intel Keynote opening Band](https://newsroom.intel.com/news/2018-ces-keynote-intel-brian-krzanich/) orchestrated by CRASH Community’s own Matt Pinner
+    *   See the [Intel Keynote opening Band](https://newsroom.intel.com/news/2018-ces-keynote-intel-brian-krzanich/) orchestrated by CRASH Community’s own Matt Pinner UPDATE: UPDATE: <https://vimeo.com/intelpr/review/250228872/716bb14dd0>
     *   [Hack-a-Day](https://hackaday.com/2018/01/14/hackaday-links-the-s-in-ces-stands-for-snake-oil/)
     *   [Ars Technica](https://arstechnica.com/gadgets/2018/01/the-best-pcs-gadgets-and-wearables-of-ces-2018/)
     *   [Engadget](https://www.engadget.com/2018/01/11/best-of-ces-2018-winners/)
