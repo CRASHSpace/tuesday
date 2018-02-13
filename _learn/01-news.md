@@ -17,6 +17,7 @@ title: News and Updates
 * <https://www.eff.org/deeplinks>
 * <http://www.niemanlab.org/>
 * <https://www.wired.com/category/security/threatlevel/>
+* <https://www.vox.com/technology>
 * <https://tisiphone.net/>
 * <https://epic.org>
 * <https://datasociety.net/>
