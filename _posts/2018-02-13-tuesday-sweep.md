@@ -8,6 +8,8 @@ categories: tuesdaysweep
 
 Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to go to the CRASH Space meeting…)
 
+(To see images, see this post on the [CRASH Space blog](https://blog.crashspace.org/2018/02/tuesday-sweep-13-february-2018/))
+
 ### Jump in Here
 
 *   Welcome. If you haven’t been following along, it’s okay. You’re not behind, you’re just where you are.
