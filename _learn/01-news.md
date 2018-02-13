@@ -22,11 +22,13 @@ title: News and Updates
 * <https://datasociety.net/>
 * <http://motherboard.vice.com/tag/cybersecurity>
 * <https://www.justsecurity.org/>
+* <https://www.recode.net/>
 * <https://hackaday.com/>
 * <https://www.sparkfun.com/news>
 * <https://blog.adafruit.com/>
 * <http://security.stackexchange.com/>
 * <http://www.darkreading.com/>
+* <https://www.cyberscoop.com/>
 * <https://www.consumerreports.org/cro/electronics-computers/guide-to-internet-security/index.htm>
 * <https://www.citylab.com>
 
