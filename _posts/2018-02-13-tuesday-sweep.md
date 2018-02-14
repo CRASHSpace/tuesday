@@ -69,6 +69,7 @@ Here are some other options for getting more nature into your life:
 From your desk:
 
 *   [Flickr](https://www.flickr.com/search/?text=Nature%20Photography) has a [ton of groups](https://www.flickr.com/search/groups/?text=Nature%20Photography) for whatever flavor of nature photography is your bag.
+*  Reddit [EarthPorn](https://www.reddit.com/r/EarthPorn/)
 *   [National Geographic](https://www.nationalgeographic.com/photography/photo-of-the-day) has the photo of the day, but subscribers (12$/year) can see the [National Geographic Archive](http://archive.nationalgeographic.com/)
 *   Another [photo of the day site](http://dailywildlifephoto.nathab.com/) from Natural Habitat Adventures & WWF
 
