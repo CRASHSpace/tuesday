@@ -60,6 +60,6 @@ We are a community. You are a welcome part of it.
 
 ## Relax
 
-Really wonderful short film piece from 1958 which is nominally on Danish glassblowing, but really demonstarted a lesson on audio-visual story telling. via [Open Culture](http://www.openculture.com/2016/03/glass-1958.html)
+Really wonderful short film piece from 1958 which is nominally on Danish glassblowing, but really demonstrates a lesson on audio-visual story telling. via [Open Culture](http://www.openculture.com/2016/03/glass-1958.html)
 
 <https://www.youtube.com/embed/aLS7--ZLCoI>
