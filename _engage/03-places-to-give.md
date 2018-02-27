@@ -31,6 +31,7 @@ title: Places to Give
 
 ### Give Cash
 * <https://www.eff.org/>
+* <https://signalfoundation.org/>
 * <https://www.aclu.org/>
 * <http://www.aeinstein.org/>
 * <https://www.accessnow.org/>
