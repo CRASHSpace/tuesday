@@ -18,7 +18,7 @@ showonindexas: link
 * Login to your router and check what devices are connected. Are they all on your checklist of things to update?
   * Computers, phones, tablets, gaming systems, IoT devices, printers, random DIY projects, etc.
 * What's been too low priority to do every week? Do that now.
-* SSL Certificates for your sites. When do they expire?
+* SSL Certificates for your sites. When do they expire? (You need to have one by [July of 2018](https://blog.chromium.org/2018/02/a-secure-web-is-here-to-stay.html))
 
 ## Back Ups,  Arichive
 
