@@ -1,5 +1,7 @@
 https://blog.mozilla.org/wp-content/uploads/2017/03/IHPbriefs_online_Privacy_March_2017.pdf
 
+https://developer.apple.com/library/content/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html
+
 * business model
 * https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b#.5edc67t64
 * https://www.eff.org/deeplinks/2016/11/tech-companies-fix-these-technical-issues-its-too-late
