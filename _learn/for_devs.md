@@ -2,6 +2,9 @@ https://blog.mozilla.org/wp-content/uploads/2017/03/IHPbriefs_online_Privacy_Mar
 
 https://developer.apple.com/library/content/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html
 
+https://lcamtuf.blogspot.com/2018/02/getting-product-security-engineering.html
+http://lcamtuf.coredump.cx/tangled/
+
 * business model
 * https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b#.5edc67t64
 * https://www.eff.org/deeplinks/2016/11/tech-companies-fix-these-technical-issues-its-too-late
