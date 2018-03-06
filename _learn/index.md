@@ -8,6 +8,5 @@ navexclude: true
 {% unless item.navexclude == true %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
-  {{ item.content }}
 {% endunless %}
 {% endfor %}
