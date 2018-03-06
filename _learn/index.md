@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start Here
+title: Learn More
 navexclude: true
 ---
 
