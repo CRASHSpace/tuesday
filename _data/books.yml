@@ -2,45 +2,45 @@ group_title: Books
 books:
 
 
-- title: Trust: The Social Virtues and The Creation of Prosperity
+- title: Trust&#58; The Social Virtues and The Creation of Prosperity
   author: Francis Fukuyama
   year_published: 1996
   ISBN-13: 978-0684825250
-  amz_affiliate_url: http://amzn.to/2oVHlI7
-  publisher_url: http://www.simonandschuster.com/books/Trust/Francis-Fukuyama/9780684825250
+  amz_affiliate_url: http&#58;//amzn.to/2oVHlI7
+  publisher_url: http&#58;//www.simonandschuster.com/books/Trust/Francis-Fukuyama/9780684825250
 
-- title: Cybersecurity and Cyberwar: What Everyone Needs to Know
+- title: Cybersecurity and Cyberwar&#58; What Everyone Needs to Know
   author: P.W. Singer,‎ Allan Friedman
   year_published: 2014
   ISBN-13: 978-0199918119
-  amz_affiliate_url: http://amzn.to/2D1Ienr
-  publisher_url: https://global.oup.com/academic/product/cybersecurity-and-cyberwar-9780199918119
+  amz_affiliate_url: http&#58;//amzn.to/2D1Ienr
+  publisher_url: https&#58;//global.oup.com/academic/product/cybersecurity-and-cyberwar-9780199918119
 
-- title: Algorithms of Oppression: How Search Engines Reinforce Racism
+- title: Algorithms of Oppression&#58; How Search Engines Reinforce Racism
   author: Safiya Umoja Noble
   year_published: 2018
   ISBN-13: 978-1479837243
-  amz_affiliate_url: http://amzn.to/2FZmwnr
+  amz_affiliate_url: http&#58;//amzn.to/2FZmwnr
   publisher_url: https://nyupress.org/books/9781479837243/
 
-- title: The Coming Swarm: DDOS Actions, Hacktivism, and Civil Disobedience on the Internet
+- title: "The Coming Swarm: DDOS Actions, Hacktivism, and Civil Disobedience on the Internet"
   author:  Molly Sauter
   year_published: 2014
   ISBN-13: 978-1623564568
-  amz_affiliate_url: http://amzn.to/2D1K3Rj
-  publisher_url: https://www.bloomsbury.com/us/the-coming-swarm-9781623568221/
+  amz_affiliate_url: "http://amzn.to/2D1K3Rj"
+  publisher_url: "https://www.bloomsbury.com/us/the-coming-swarm-9781623568221/"
 
-- title: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
+- title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
   author: Cathy O'Neil
   year_published: 2016
   ISBN-13: 978-0553418811
-  amz_affiliate_url: http://amzn.to/2oUoL32
-  publisher_url: http://crownpublishing.com/archives/news/weapons-math-destruction-cathy-oneil
-  author_website: https://weaponsofmathdestructionbook.com/
+  amz_affiliate_url: "http://amzn.to/2oUoL32"
+  publisher_url: "http://crownpublishing.com/archives/news/weapons-math-destruction-cathy-oneil"
+  author_website: "https://weaponsofmathdestructionbook.com/"
 
-- title: Code: The Hidden Language of Computer Hardware and Software
+- title: "Code: The Hidden Language of Computer Hardware and Software"
   author: Charles Petzold
   year_published: 2000
   ISBN-13: 978-0735611313
-  amz_affiliate_url: http://amzn.to/2oMOFGM
-  publisher_url: https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780735611313
+  amz_affiliate_url: "http://amzn.to/2oMOFGM"
+  publisher_url: "https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780735611313"
