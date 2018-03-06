@@ -3,7 +3,7 @@ collection: learn
 layout: page
 name: 02-courses.md
 title: Courses
-description: multi-lesson courses on privacy, secuirty and infosec as a career
+description: "Multi-lesson courses on privacy, secuirty and infosec as a career"
 ---
 
 ### General Courses

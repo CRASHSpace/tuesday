@@ -3,7 +3,7 @@ collection: learn
 layout: page
 name: 01-news.md
 title: News and Updates
-descriptions: Websites, podcasts and tweeter feeds worth peaking at regularly.
+description: "Websites, podcasts and tweeter feeds worth peaking at regularly."
 ---
 
 ### Podcasts

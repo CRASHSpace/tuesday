@@ -3,7 +3,7 @@ collection: learn
 layout: page
 name: 03-books.md
 title: Books
-description: A small collection of books on helpful topics. The most up to date technical information tends to be online, which is why you won't see any books like that here.
+description: "A small collection of books on helpful topics. The most up to date technical information tends to be online, which is why you won't see any books like that here."
 ---
 
 
