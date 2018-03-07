@@ -51,3 +51,11 @@ books:
   ISBN-13: 978-0300227444
   amz_affiliate_url: "http://amzn.to/2oOODOu"
   publisher_url: "https://yalebooks.yale.edu/book/9780300227444/listening"
+
+- title: "The Gift of Fear : Survival Signals That Protect Us from Violence"
+  author: Gavin De Becker
+  why: "Social Engineering works better than just about anything else. This book primes the reader to trust their gut if something feels off."
+  year_published: 1997
+  ISBN-13: 978-0316235020
+  amz_affiliate_url: "http://amzn.to/2oXFnaj"
+  publisher_url: "https://www.penguinrandomhouse.com/books/38296/the-gift-of-fear-by-gavin-de-becker/9780440508830/"
