@@ -44,3 +44,10 @@ books:
   ISBN-13: 978-0735611313
   amz_affiliate_url: "http://amzn.to/2oMOFGM"
   publisher_url: "https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780735611313"
+
+- title: "Listening In: Cybersecurity in an Insecure Age"
+  author: Susan Landau
+  year_published: 2017
+  ISBN-13: 978-0300227444
+  amz_affiliate_url: "http://amzn.to/2oOODOu"
+  publisher_url: "https://yalebooks.yale.edu/book/9780300227444/listening"
