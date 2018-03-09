@@ -19,6 +19,7 @@ showonindexas: link
   * Computers, phones, tablets, gaming systems, IoT devices, printers, random DIY projects, etc.
 * What's been too low priority to do every week? Do that now.
 * SSL Certificates for your sites. When do they expire? (You need to have one by [July of 2018](https://blog.chromium.org/2018/02/a-secure-web-is-here-to-stay.html))
+* While you're at it, do you really need all those domain names? Maybe choose some to let expire. 
 
 ## Back Ups,  Arichive
 
