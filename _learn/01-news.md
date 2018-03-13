@@ -17,7 +17,7 @@ description: "Websites, podcasts and tweeter feeds worth peaking at regularly."
 * <https://www.sans.org/security-resources/blogs>
 * <https://www.eff.org/deeplinks>
 * <http://www.niemanlab.org/>
-* <https://www.wired.com/category/security/threatlevel/>
+* <https://www.wired.com/category/security/>
 * <https://www.vox.com/technology>
 * <https://tisiphone.net/>
 * <https://epic.org>
