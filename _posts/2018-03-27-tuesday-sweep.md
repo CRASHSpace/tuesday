@@ -8,6 +8,8 @@ categories: tuesdaysweep
 
 Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and I hope you’re already heading to the CRASH Space meeting…)
 
+On the blog: < https://blog.crashspace.org/2018/03/tuesday-sweep-27-march-2018/>
+
 So starting next week I’m updating the format of the Tuesday Sweeps to follow a “zone system” where each week of the month will look harder at one aspect of digital life. The quarterly sweeps will will be broken out as their own thing and posted on a Friday b/c isn’t it just that more realistic that people would make time on a weekend? The loose plan for the zones is below. Feedback welcome.
 
 *   Connectivity (ISPs, Routers, mobile plans, VPNs, etc.)

@@ -7,6 +7,8 @@ categories: tuesdaysweep
 ---
 Your weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and I hope you’re already at the CRASH Space meeting…)
 
+On the blog: <https://blog.crashspace.org/2018/03/tuesday-sweep-20-march-2018/>
+
 ### Jump in Here
 
 *   Welcome. If you haven’t been following along, it’s okay. You’re not behind, you’re just where you are.
