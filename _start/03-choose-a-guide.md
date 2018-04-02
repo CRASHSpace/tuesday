@@ -20,6 +20,6 @@ Judge a guide by the same standards used for all primary resources, with a coupl
 
 These guides provide and overview of loads of topics and provide mountains of things to do. Pick one guide, and then do one thing from it a week.
 
-{% for item in site.data.privacy_security_guides.gsg %}
+{% for item in site.data.content.privacy_security_guides.gsg %}
 <p><a class="page-link" href="{{ item.url | relative_url }}" alt="{{ item.title }}">{{ item.title }}</a><br>{{ item.description }}</p>
 {% endfor %}

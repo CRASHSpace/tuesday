@@ -7,7 +7,7 @@ description: "A small collection of books on helpful topics. The most up to date
 ---
 
 
-{% for item in site.data.books.books %}
+{% for item in site.data.content.books.books %}
 <p><em>{{ item.title }}</em>
 <br>{{ item.author }}, {{ item.year_published }}
 <br>{{ item.why }}
