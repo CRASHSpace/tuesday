@@ -8,7 +8,7 @@ title: Pick an easy win
 
 ### Feel Good Fast
 * [Register to vote](http://www.sos.ca.gov/elections/voter-registration/)
-* [Put your elected officials on speed dial](https://www.schneier.com/blog/archives/2018/02/can_consumers_o.html)
+* Write out a list of your elected officials numbers and put them on the fridge as well as in your phone. [Calling IS effective.](https://www.schneier.com/blog/archives/2018/02/can_consumers_o.html)
 * Download Signal
 * Choose a password manager
 * Buy a shredder
