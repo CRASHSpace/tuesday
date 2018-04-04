@@ -24,3 +24,10 @@ showonindexas: link
 - Check the activity logs on your router.
 - Check your firewall settings.
 - Might be a good week to call the city and see if municipal broadband might be coming to you…
+
+### Learning Topics
+- About how the internet networks work
+- About VPNs
+- About Tor
+- About the history of the internet
+- About protocols

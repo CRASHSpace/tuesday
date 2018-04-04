@@ -7,9 +7,8 @@ showonindexas: full
 ---
 
 ### Start Up
-- Write a list of all the devices you use that connect to the internet
-- Write out a list of all your elected representatives and put it on the fridge.
-- [Are you registered to vote?]<http://www.sos.ca.gov/elections/voter-registration/>
+
+- Have you taken care of all the [Easy Wins](../_start/04-pick-an-easy-win.md)?
 
 ### Maintain
 - Update your main computer(s) and phone.
