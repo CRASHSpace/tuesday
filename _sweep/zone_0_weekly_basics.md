@@ -11,7 +11,7 @@ showonindexas: full
 - Have you taken care of all the [Easy Wins](../_start/04-pick-an-easy-win.md)?
 
 ### Maintain
-- Update main computer(s), phone(s) and tablet.
+- Update main computer(s), phone(s) and tablet(s).
 - Confirm that backup system(s) for your main computer(s), phone(s) and tablet(s) have run.
 - Check snail mail.
 - Clean out wallet/purse/laptop bag.
