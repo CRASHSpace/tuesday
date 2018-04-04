@@ -13,3 +13,4 @@ title: Pick an easy win
 * Buy a shredder
 * Install a browser extension
 * Switch your search engine
+* [Register to vote]<http://www.sos.ca.gov/elections/voter-registration/>
