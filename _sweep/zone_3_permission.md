@@ -18,3 +18,6 @@ showonindexas: link
 - Check the privacy setting on social media accounts
 - Transfer email to an offline archive, delete email off the server that is more than 6 months old
 - Delete your histories where you can find them.
+- Software as a service check:
+    -   Are all your subscription up to date?
+    -   Anyone billing you who shouldn’t be? (Check your credit card bills for misc charges)

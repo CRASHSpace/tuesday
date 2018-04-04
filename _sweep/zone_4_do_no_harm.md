@@ -17,3 +17,10 @@ showonindexas: link
 - Patch your servers
 - Patch your projects
 - Unplug what you don’t want to patch
+* Check back-ups are still running
+* Check logs
+* Check traffic patterns
+* Check processes
+* any new files that shouldn't be there?
+* [Tips from serverfault](http://serverfault.com/questions/2783/how-do-i-know-if-my-linux-server-has-been-hacked)
+* [Tips from StackExcahange](http://security.stackexchange.com/questions/7443/how-do-you-know-your-server-has-been-compromised)

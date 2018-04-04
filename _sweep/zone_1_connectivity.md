@@ -16,6 +16,10 @@ showonindexas: link
 
 ### Maintain
 - Any new choices for ISP in your neighborhood?
+- What new hardware do you have?
+    -   Is it set up correctly?
+    -   How does it stay up to date and backed up?
+    -   Is it on your check list?
 - Stored WiFi networks can be used to profile your computer and find out places you’ve been. Weed them out.
 - Check the activity logs on your router.
 - Check your firewall settings.

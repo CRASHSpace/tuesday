@@ -9,7 +9,7 @@ showonindexas: full
 ### Start Up
 - Write a list of all the devices you use that connect to the internet
 - Write out a list of all your elected representatives and put it on the fridge.
-- What’s in your “Every Day Carry”
+- [Are you registered to vote?]<http://www.sos.ca.gov/elections/voter-registration/>
 
 ### Maintain
 - Update your main computer(s) and phone.
