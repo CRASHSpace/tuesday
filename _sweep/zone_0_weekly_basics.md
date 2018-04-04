@@ -11,9 +11,9 @@ showonindexas: full
 - Have you taken care of all the [Easy Wins](../_start/04-pick-an-easy-win.md)?
 
 ### Maintain
-- Update your main computer(s) and phone.
-- Confirm that your backup system for your main computer(s) and smart phone are working.
-- Check your snail mail.
-- Clean out wallet /purse/laptop bag
+- Update main computer(s), phone(s) and tablet.
+- Confirm that backup system(s) for your main computer(s), phone(s) and tablet(s) have run.
+- Check snail mail.
+- Clean out wallet/purse/laptop bag.
+- Check junk mail folder for anything suspicious.
 - Check the news for what’s up for a vote, or went to vote. Call both to express your opinion and to say Thank You.
-- Check your junk mail folder.
