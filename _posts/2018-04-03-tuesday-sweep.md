@@ -9,6 +9,8 @@ Your REVAMPED weekly reminder to back up your data, update software and otherwis
 
 So this is the first Tuesday Sweep with the revised zone system. The next month will be little light on putting new and fabulous stuff in the “Learn” section because reorganizing will be eating the allocated Tuesday Sweep time.
 
+[On the blog](https://blog.crashspace.org/2018/04/tuesday-sweep-3-april-2018/)
+
 ### Jump in Here
 
 *   Welcome. If you haven’t been following along, it’s okay. You’re not behind, you’re just where you are.
@@ -20,12 +22,12 @@ So this is the first Tuesday Sweep with the revised zone system. The next month 
 
 #### Weekly Basics
 
-*   Update your main computer(s), smart phones and tablets.
-*   Confirm that your backup system for your main computer(s), smart phones and tablets has run on schedule.
-*   Check your snail mail.
-*   Clean out wallet /purse/laptop bag
-*   Check the news for what’s up for a vote, or went to vote. Call both to express your opinion and to say Thank You.
-*   Check your junk mail folder.
+- Update main computer(s), phone(s) and tablet.
+- Confirm that backup system(s) for your main computer(s), phone(s) and tablet(s) have run.
+- Check snail mail.
+- Clean out wallet/purse/laptop bag.
+- Check junk mail folder for anything suspicious.
+- Check the news for what’s up for a vote, or went to vote. Call both to express your opinion and to say Thank You.
 
 #### This Week’s Focus: Zone 1 – Connectivity
 
