@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: zone_4_do_no_harm.md
 title: Zone 4 - Do No Harm
-showonindexas: full
+showonindexas: link
 ---
 
 ###Start Up

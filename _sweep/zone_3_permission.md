@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: zone_3_permission.md
 title: Zone 3 - Permission
-showonindexas: full
+showonindexas: link
 ---
 
 ###Start Up

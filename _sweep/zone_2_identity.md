@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: zone_2_identity.md
 title: Zone 2 - Identity
-showonindexas: full
+showonindexas: link
 ---
 
 ###Start Up
