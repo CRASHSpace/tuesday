@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: sweep_basic_checklist.md
 title: Basic Checklist
-showonindexas: full
+showonindexas: none
 ---
 
 *   [Updated software](https://blog.crashspace.org/2016/12/one-thing-to-do-today-tuesday-routine-update-everything/) recently? Pick a new device to check on today.
