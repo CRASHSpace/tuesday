@@ -35,6 +35,7 @@ showonindexas: link
 
 * Is your passport up to date?
 * Are you registered to vote?
+* Have you considered getting a HAM license? 
 * When was the last time you checked the validity of your Emergency Plan and the contents of your stay-kit, go-bag, and everyday carry?
     *   [California Resources](http://www.caloes.ca.gov/)
     *   [Federal Resources](https://www.ready.gov/make-a-plan)
