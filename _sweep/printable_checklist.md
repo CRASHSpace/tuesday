@@ -5,6 +5,9 @@ name: checklist.md
 title: Basic Checklist
 showonindexas: none
 ---
+
+NOT THE CURRENT LIST, KEPT FOR DOCUMENTATION PURPOSES.  
+
 <text x="0" y="0">{{page.title}}</text>
 <g id="list" transform="translate(0, 150)">
 {% assign todolist_count = '' %}
