@@ -7,17 +7,30 @@ showonindexas: link
 ---
 
 ### Start Up
-- Write a list of all the places that you provide data. Social Networks, Email, Home IoT, Fitness Apps, Meditation Apps, Online Video games... At the very least most of these places will keep a record of where you logged in from at what time. What are their privacy policies?
-- Get rid of the “junk-food” apps and accounts that don’t actually provide value, improve your life.
-  - For the ones that do have value to you is there a way to mitigate the potential harm of a data leak? 
-- Switch your default search engine on your computers and phones
-- Install privacy protecting browser plugins.
+
+*   Write another list, this one’s harder. Who do you give data to? Who takes it without asking? It can be impossible to know. Social networks, email, home IoT, fitness apps, meditation apps, navigation apps, online video games, most of these entities will at least keep a record of where you logged in from at what time. What are their privacy policies? Do your best. This step can be overwhelming. Maybe tackle one class of data collector per month to keep from going nuts.
+*   Check your Facebook settings and download your data , if applicable
+*   Check your Google settings and download your data , if applicable
+*   Check your [Amazon settings](https://www.makeuseof.com/tag/amazon-privacy-shopping/) and … opps you can’t download your data.
+*   Check the privacy settings on your mobile devices
+*   Check the privacy settings of your IoT devices
+*   Check the privacy settings on online accounts, especially social media.
+*   Install privacy Badger and/or an Ad Blocker (and HTTPs everywhere if you missed it week 1)
+*   Create a system for archiving your email offline
+*   Check [how trackable your browser is](https://panopticlick.eff.org/), even without cookies
+*   Download software to strip EXIF data from images, and use it before sharing pictures
+*   Learn how to sniff the traffic leaving your devices
 
 ### Maintain
-- Double check privacy settings on your phone
-- Check the privacy setting on social media accounts
-- Transfer email to an offline archive, delete email off the server that is more than 6 months old
-- Delete your histories where you can find them.
-- Software as a service check:
-    -   Are all your subscription up to date?
-    -   Anyone billing you who shouldn’t be? (Check your credit card bills for misc charges)
+
+*   Double check privacy settings, especially on mobile devices
+*   Clear browsing history & logs on computers, on mobile devices
+*   Check the privacy setting on social media accounts
+*   Check for updates for IoT devices and their current privacy settings
+*   Transfer email to offline archive, delete email off the server that is more than 6 months old
+*   Delete your browsing histories and logs where you can find them.
+*   Delete software from devices that never gets used. The download files or disk images can be archived to a hard drive if you’re worried about never being able to find it again.
+*   Software as a service check:
+    *   Are all your subscription up to date?
+    *   Anyone billing you who shouldn’t be?
+*   On a fun note, go through photos/videos taken over the last month. Sure, delete some, but really mark the ones you think you might care about at the end of the year.
