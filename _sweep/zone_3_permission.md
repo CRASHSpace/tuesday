@@ -6,6 +6,8 @@ title: Zone 3 - Permission
 showonindexas: link
 ---
 
+This third Tuesday Sweep of the revised zone system focuses on "Permissions." The old saying goes "if you give 'em an inch, they'll take a mile," and for many technology products that seems to be their motto for data collection. But not all products, and not all setting levels on all products.  This week thing about the items and software you've let in the door, so to speak, and make sure they are being proper guests.
+
 ### Start Up
 
 *   Write another list, this one’s harder. Who do you give data to? Who takes it without asking? It can be impossible to know. Social networks, email, home IoT, fitness apps, meditation apps, navigation apps, online video games, most of these entities will at least keep a record of where you logged in from at what time. What are their privacy policies? Do your best. This step can be overwhelming. Maybe tackle one class of data collector per month to keep from going nuts.

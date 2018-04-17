@@ -8,7 +8,7 @@ categories: tuesdaysweep
 
 Your REVAMPED weekly reminder to back up your data, update software and otherwise pay attention to your digital environment. (Oh, and to head to the CRASH Space meeting…)
 
-This second Tuesday Sweep of the revised zone system focuses on “Identity.” Yours, and how not to get it stolen. I spent a bunch of quality time with my password manager today, changing passwords it considered weak, cleaning out duplicates, sometimes deleting an account all together if I didn’t really use it anyway.
+This third Tuesday Sweep of the revised zone system focuses on "Permissions." The old saying goes "if you give 'em an inch, they'll take a mile," and for many technology products that seems to be their motto for data collection. But not all products, and not all setting levels on all products.  This week thing about the items and software you've let in the door, so to speak, and make sure they are being proper guests.
 
 On the Repo: [https://crashspace.github.io/tuesday/tuesdaysweep/2018/04/17/tuesday-sweep.html](https://crashspace.github.io/tuesday/tuesdaysweep/2018/04/10/tuesday-sweep.html)
 See All The Zones So Far: [https://crashspace.github.io/tuesday/sweep/](https://crashspace.github.io/tuesday/sweep/)
