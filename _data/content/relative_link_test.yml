@@ -1,0 +1,8 @@
+group_title: Relative Link Test
+links:
+
+- title: Zone 1
+  support_file: zone_1_connectivity.md
+
+- title: Zone 2
+  support_file: zone_2_identity.md
