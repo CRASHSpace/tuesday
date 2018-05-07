@@ -37,7 +37,7 @@ _focus of the month_
 #### Weekly Basics
 
 {% for item in site.data.content.relative_link_test.links %}
-[{{ item.title }}]({{ item.support_file }})
+[{{ item.title }}]({{site.baseurl}}{{ item.support_file }})
 {% endfor %}
 
 * [Same dir](sweep_basic_checklist.md)
