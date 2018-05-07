@@ -7,6 +7,7 @@ showonindexas: link
 {{ 'now' | date: "%Y %h" }}
 {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}
 {{ site.time }}
+{{ page.last_modified_at }}
 
 ---
 layout: post
