@@ -18,6 +18,10 @@ repo_name: tuesday
 # Build settings
 markdown: kramdown
 
+relative_links:
+  enabled:     true
+  collections: false
+
 collections:
   start:
     output: true
