@@ -6,11 +6,6 @@ title: Zone 0 - Weekly Basics
 showonindexas: full
 ---
 
-### Start Up
-
-- Do you have a list of all the devices under your physical control that connect to the internet?
-- Have you taken care of all the [Easy Wins](../_start/04-pick-an-easy-win.md)?
-
 
 ### Maintain
 - Update main computer(s), phone(s) and tablet(s).

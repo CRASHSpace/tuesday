@@ -27,6 +27,7 @@ Set up for safety on public WiFi networks
 - Check the activity logs on your router.
 - Check your firewall settings.
 - Might be a good week to call the city and see if municipal broadband might be coming to you…
+- Check junk mail folder for anything suspicious.
 
 ### Learning Topics
 - About how the internet networks work
