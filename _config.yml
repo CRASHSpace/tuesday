@@ -20,7 +20,7 @@ markdown: kramdown
 
 relative_links:
   enabled:     true
-  collections: false
+  collections: true
 
 collections:
   start:
