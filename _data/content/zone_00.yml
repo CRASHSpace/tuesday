@@ -2,7 +2,7 @@ group_title: Zone 0
 zone0:
 
   start:
-    short_description: Connectivity
+    short_description: Basics
     tasks:
       - title: Jump on some Easy Wins
         support_file: _start/04-pick-an-easy-win.md
