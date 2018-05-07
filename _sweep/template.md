@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sweep Template
-showonindexas: none
+showonindexas: link
 ---
 
 ---
