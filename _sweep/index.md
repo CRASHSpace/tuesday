@@ -4,8 +4,6 @@ title: Sweep
 showonindexas: none
 ---
 
-update check: {{ 'now' }}
-
 {% assign itemstoshow = (site.sweep | where: "showonindexas" , "full") %}
 {% for item in itemstoshow %}
 <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
