@@ -1,0 +1,21 @@
+group_title: Zone 0
+zone0:
+
+  start:
+    short_description: Connectivity
+    tasks:
+      - title: Jump on some Easy Wins
+        support_file: _start/04-pick-an-easy-win.md
+      - title: Check out the getting started materials
+        support_file: _start/index.md
+
+  maintain:
+    tasks:
+      - title: Update main computer(s), phone(s) and tablet(s).
+        support_file: update.md
+      - title: Confirm that backup system(s) for your main computer(s), phone(s) and tablet(s) have run.
+        support_file: backup.md
+      - title: Check forgotten inboxes.
+        support_file: mail.md
+      - title: Reset wallet/purse/laptop bag/car.
+        support_file: every_day_carry.md
