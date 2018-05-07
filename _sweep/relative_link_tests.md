@@ -11,5 +11,5 @@ showonindexas: link
 * [Same dir](sweep_basic_checklist.md)
 * [File in learn dir with dots](../_learn/01-news.md)
 * [File in learn dir, abs]({{site.baseurl}}/_learn/01-news.md)
-* [File in learn dir, no leading /](_learn/01-news.md)
+* [File in learn dir, no leading /](_learn/does_it_find_me.md)
 * baseurl, FYI: {{ site.baseurl }}
