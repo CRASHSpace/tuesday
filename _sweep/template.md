@@ -4,6 +4,9 @@ title: Sweep Template
 showonindexas: link
 ---
 
+{{ 'now' | date: "%Y %h" }}
+{{ site.time | date: "%Y-%m-%d %H:%M:%S" }}
+
 ---
 layout: post
 title: Tuesday Sweep&#58 DD Month 2018
