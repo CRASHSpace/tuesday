@@ -2,7 +2,7 @@ group_title: Relative Link Test
 links:
 
 - title: Zone 1
-  support_file: zone_1_connectivity.md
+  support_file: /_sweep/zone_1_connectivity
 
 - title: Zone 2
-  support_file: zone_2_identity.md
+  support_file: /_sweep/zone_2_identity
