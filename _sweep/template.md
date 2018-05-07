@@ -40,6 +40,10 @@ _focus of the month_
 [{{ item.title }}]({{ item.support_file }})
 {% endfor %}
 
+* [Same dir](sweep_basic_checklist.md)
+* [File in learn dir with dots](../_learn/01-news.md)
+* [File in learn dir, abs](/_learn/01-news.md)
+
 #### This Week’s Focus:
 
 _tasks for the week_
