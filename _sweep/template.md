@@ -40,8 +40,6 @@ _focus of the month_
 [{{ item.title }}]({{ item.support_file }})
 {% endfor %}
 
-[Test Relative Link](_sweep/zone_1_connectivity.md)
-
 #### This Week’s Focus:
 
 _tasks for the week_
