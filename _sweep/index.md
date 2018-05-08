@@ -13,7 +13,7 @@ showonindexas: none
 
 ## Other Checklists
 
-- 
+- Ping
 
 {% assign itemstolink = (site.sweep | where: "showonindexas" , "link") %}
 {% for item in itemstolink %}
