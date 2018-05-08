@@ -5,7 +5,7 @@ zone: basics
 list_order: 0
 name: backup.md
 title: Making Backups
-weekly_todo_text: Do you have a system for backing things up? Is it actually running?
+weekly_todo_text: Check that backup system is actually running.
 quarterly_task: Test restoring a computer or other device from its back-up.
 showonindexas: none
 ---
