@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-zone: 0
+zone: basics
 list_order: 1
 name: update.md
 title: Stay Up to Date

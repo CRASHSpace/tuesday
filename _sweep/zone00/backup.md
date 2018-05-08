@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-zone: 0
+zone: basics
 list_order: 0
 name: backup.md
 title: Making Backups

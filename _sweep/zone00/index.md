@@ -8,7 +8,7 @@ showonindexas: full
 
 I'm here!
 
-{% assign itemstoshow = (site.sweep | where: "zone" , 0) %}
+{% assign itemstoshow = (site.sweep | where: "zone" , "basics") %}
 {% for item in itemstoshow %}
 * {{ item.weekly_todo_text }}[more]({{ item.url | relative_url }})
 {% endfor %}

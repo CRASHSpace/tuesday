@@ -2,7 +2,7 @@
 collection: sweep
 layout: page
 showonindexas: none
-zone: 0
+zone: basics
 list_order: 3
 name: neglected_inboxes.md
 title: Check neglected inboxes
