@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-name: zone_2_identity.md
+name: index.md
 title: Zone 2 - Identity
 showonindexas: link
 ---

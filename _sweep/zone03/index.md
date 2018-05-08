@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-name: zone_3_permission.md
+name: index.md
 title: Zone 3 - Permission
 showonindexas: link
 ---
