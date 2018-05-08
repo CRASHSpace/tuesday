@@ -10,5 +10,5 @@ I'm here, again!
 
 {% assign itemstoshow = (site.sweep | where: "zone" , "basics") %}
 {% for item in itemstoshow %}
-* {{ item.weekly_todo_text }}[more]({{ item.url | relative_url }})
+* {{ item.weekly_todo_text }} [(more ->)]({{ item.url | relative_url }}) 
 {% endfor %}
