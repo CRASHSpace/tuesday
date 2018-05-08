@@ -19,6 +19,7 @@ quarterly_task: Does your password manager have any of your passwords flagged as
   * You main computer
   * Any tablets and smart phones
   * As browser plugins
+* Gather up existing passwords and start moving them in.
 
 ##Maintenance mode
 
