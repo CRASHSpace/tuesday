@@ -1,6 +1,7 @@
 ---
 collection: sweep
 layout: page
+zone: 0
 name: zone_0_weekly_basics.md
 title: Zone 0 - Weekly Basics
 showonindexas: full
