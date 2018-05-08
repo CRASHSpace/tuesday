@@ -14,9 +14,12 @@ quarterly_task:
 
 ##Getting Started
 
+ANY two factor is fine at this point. Just do it.
+
 ##Maintenance mode
 
 ##CRASH Space Blog Posts
 * <https://blog.crashspace.org/2016/11/one-thing-to-do-today-enable-two-factor-authentication/>
+* <https://blog.crashspace.org/2016/11/one-thing-to-do-today-single-factor-biometrics-are-the-worst/>
 
 ##Other Links
