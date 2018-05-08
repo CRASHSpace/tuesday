@@ -11,7 +11,7 @@ quarterly_task: Are the items in your EDC working for you? What can be reoved or
 ---
 ##Why This
 
-Being under pressure makes people make decisions they wouldn't normally, like plugging a smart phone in to an unknown USB port to charge, etc. Have daily basics charged, packed, ready to go can prevent desperation forcing dumb decisions.
+Being under pressure makes people make decisions they wouldn't normally, like plugging a smart phone in to an unknown USB port to charge, etc. Have daily basics charged, packed, ready to go can prevent desperation decisions.
 
 ##Getting Started
 
