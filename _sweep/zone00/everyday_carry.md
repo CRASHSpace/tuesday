@@ -7,7 +7,7 @@ list_order: 2
 name: everyday_carry.md
 title: Everyday carrys.
 weekly_todo_text: Clean out and reset wallet/purse/laptop bag/vehicle.
-quarterly_task: Are the items in your EDC working for you? What can be reoved or what needs to be added?
+quarterly_task: Are the items in your EDC working for you? What can be removed or what needs to be added?
 ---
 ##Why This
 
@@ -15,7 +15,7 @@ Being under pressure makes people make decisions they wouldn't normally, like pl
 
 ##Getting Started
 
-There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds".  Make a list of the bags/wallets/vehicles that you naturally take with you and think about what's right to carry in each of them.
+There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds".  Make a list of the bags/wallets/vehicles that you naturally take with you and think about what's right to carry in each of them. Make a checklist for each bag.
 
 From a internet privacy and security standpoint, these would be the  items to consider.
 
@@ -24,7 +24,14 @@ From a internet privacy and security standpoint, these would be the  items to co
 * Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.
 * Relevant [security tokens](https://en.wikipedia.org/wiki/Security_token) if you've gone that route for [Two Factor Authorization](../zone02/2FA.md).
 
- Pick and choose what works for you and make a check list for each place that should be restocked each week.  
+##Maintenance mode
+
+For each bag/vehicle:
+
+* Empty out the trash
+* If there's any forgotten business like business cards or receipts take care of them immediately.  
+* Restock from checklist
+* Replace items that expire
 
 ##CRASH Space Blog Posts
 
@@ -34,18 +41,21 @@ From a internet privacy and security standpoint, these would be the  items to co
 
 ##More items to consider  
 
+Here are some items people list as being in their EDC. Do be selective, to carry ALL of this would mean a very big bag.  
+
 * Emergency cash
 * Emergency sustenance: Nutritional bar, instant coffee packets, tea bags, peanut-butter packets, etc.
 * Water
-* Medicine, OTC and scripts
+* Medicines, over the counter and prescription
 * Napkins, tissues, microfiber cloth
 * Eyeware (glasses, sunglasses)
 * Adapters/Dongles (USB cables, adapter, splitters, etc.)
 * External mouse
 * Headphones
+* Bluetooth speaker
 * Wire strippers
 * Travel multimeter
-* Logic analyzer/ miniscope
+* Logic analyzer/mini oscilloscope
 * Arduino kit
 * Travel surge protector
 * MicroSD cards and adapters
@@ -54,7 +64,14 @@ From a internet privacy and security standpoint, these would be the  items to co
 * Straight edge
 * Sharpies
 * Zip ties
+* Sewing kit
 * Tape
+* Superglue
 * Knife
 * Tape measure
 * Screwdriver(s)
+* Lotion
+* Personal choice of lip goo
+* Hand sanitizer
+* Bandaids
+* Liquid skin
