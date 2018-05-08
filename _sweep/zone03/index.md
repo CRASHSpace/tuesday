@@ -11,6 +11,7 @@ This third Tuesday Sweep of the revised zone system focuses on "Permissions." Th
 ### Start Up
 
 *   Write another list, this one’s harder. Who do you give data to? Who takes it without asking? It can be impossible to know. Social networks, email, home IoT, fitness apps, meditation apps, navigation apps, online video games, most of these entities will at least keep a record of where you logged in from at what time. What are their privacy policies? Do your best. This step can be overwhelming. Maybe tackle one class of data collector per month to keep from going nuts.
+*  Be careful who you keep in your official contacts list. These can be sucked down by Apps and plugins.
 *   Check your Facebook settings and download your data , if applicable
 *   Check your Google settings and download your data , if applicable
 *   Check your [Amazon settings](https://www.makeuseof.com/tag/amazon-privacy-shopping/) and … opps you can’t download your data.
