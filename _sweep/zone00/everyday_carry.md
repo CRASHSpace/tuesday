@@ -15,11 +15,15 @@ Being under pressure makes people make decisions they wouldn't normally, like pl
 
 ##Getting Started
 
-What do you need? When I lived in NYC I used to keep a 20 in my shoe to catch a cab.  There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds". From a internet privacy and security standpoint, these would be my suggestions, but your milage may vary. 
+There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds".  Make a list of the bags/wallets/vehicles that you naturally take with you and think about what's right to carry in each of them.
+
+From a internet privacy and security standpoint, these would be the three items that I put high on my list, but these situations might not come up for you.
 
 * Charging cables, either battery backup or wall charger or both to prevent plugging in to strange cables or ports.
 * [Live USB Boot Disk](https://en.wikipedia.org/wiki/Live_USB) to prevent having to leave traces on someone else's machine.
-* Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.   
+* Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.  
+
+At the end of the page I've put a brain dump. Pick and choose what works for you, and make a check list for each place that should be restocked each week.  
 
 ##CRASH Space Blog Posts
 
