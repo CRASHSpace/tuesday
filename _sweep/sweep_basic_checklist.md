@@ -6,6 +6,8 @@ title: Basic Checklist
 showonindexas: none
 ---
 
+(Deprecated)
+
 *   [Updated software](https://blog.crashspace.org/2016/12/one-thing-to-do-today-tuesday-routine-update-everything/) recently? Pick a new device to check on today.
 *   [Backups](https://blog.crashspace.org/2016/11/one-thing-to-do-today-tuesday-sweep-where-are-your-backups/) still up and running? When was the last time you made a clean [disk image](https://blog.crashspace.org/2017/01/one-thing-to-do-today-keep-a-clean-disk-image-on-hand/)? Here’s a new great article on how to design [a backup system](https://www.grahamcluley.com/create-robust-data-backup-plan-make-sure-works/).
 *   App, Password  Gardening: Delete a [low quality app](https://blog.crashspace.org/2016/12/one-thing-to-do-today-institute-beyonce-rules-for-vetting-apps/) from your phone or [delete](https://blog.crashspace.org/2016/12/one-thing-to-do-today-turn-off-image-loading-for-email/) [an](https://blog.crashspace.org/2016/12/one-thing-to-do-today-turn-off-image-loading-for-email/) [account](https://blog.crashspace.org/2016/11/one-thing-to-do-today-delete-your-account/) that you don’t need that doesn’t make you happy. Digital cruft builds up. Delete it. If you’re keeping it, can you move the password to your [password manager](https://blog.crashspace.org/2016/11/one-thing-to-do-today-what-passwords-do-you-have-anyway/) (delete it from everywhere else) and add [two factor authentication](https://blog.crashspace.org/2016/11/one-thing-to-do-today-enable-two-factor-authorization/)?

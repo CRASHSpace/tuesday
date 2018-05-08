@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sweep Template
-showonindexas: link
+showonindexas: none
 ---
 
 {{ 'now' | date: "%Y %h" }}

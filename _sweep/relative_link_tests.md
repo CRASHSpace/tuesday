@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Relative Links Test
-showonindexas: link
+showonindexas: none
 ---
 
 {% for item in site.data.content.relative_link_test.links %}
