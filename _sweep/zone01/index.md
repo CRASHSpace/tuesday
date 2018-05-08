@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-name: zone_1_connectivity.md
+name: index.md
 title: Zone 1 - Connectivity
 showonindexas: link
 ---

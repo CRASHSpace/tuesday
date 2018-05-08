@@ -1,7 +1,7 @@
 ---
 collection: sweep
 layout: page
-name: zone_5_do_no_harm.md
+name: zone_5_index.md
 title: Zone 5 - Sweep the Sweep
 showonindexas: link
 ---
