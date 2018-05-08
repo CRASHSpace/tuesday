@@ -4,6 +4,8 @@ title: Sweep
 showonindexas: none
 ---
 
+Ping?
+
 {% include weekly_basics.html %}
 
 ## Other Checklists
