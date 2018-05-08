@@ -6,9 +6,9 @@ title: Zone 0 - Weekly Basics
 showonindexas: full
 ---
 
-I'm here, again! Sorted?
+Basic tasks that prevent a really big chunk of problems.
 
 {% assign itemstoshow = (site.sweep | where: "zone" , "basics" | sort: 'list_order') %}
 {% for item in itemstoshow %}
-* {{ item.weekly_todo_text }} [(more ->)]({{ item.url | relative_url }})
+* {{ item.weekly_todo_text }} [(more)]({{ item.url | relative_url }})
 {% endfor %}
