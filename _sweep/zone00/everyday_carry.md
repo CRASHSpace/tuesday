@@ -11,8 +11,45 @@ quarterly_task: Are the items in your EDC working for you? What can be reoved or
 ---
 ##Why This
 
+Being under pressure makes people make decisions they wouldn't normally, like plugging a smart phone in to an unknown USB port to charge, etc. Have daily basics charged, packed, ready to go can prevent desperation forcing dumb decisions.
+
 ##Getting Started
+
+What do you need? When I lived in NYC I used to keep a 20 in my shoe to catch a cab.  There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds". From a internet privacy and security standpoint, these would be my suggestions, but your milage may vary. 
+
+* Charging cables, either battery backup or wall charger or both to prevent plugging in to strange cables or ports.
+* [Live USB Boot Disk](https://en.wikipedia.org/wiki/Live_USB) to prevent having to leave traces on someone else's machine.
+* Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.   
 
 ##CRASH Space Blog Posts
 
 ##Other Links
+* http://everydaycarry.com/posts/5827/what-is-edc-the-beginners-guide-to-everyday-carry
+* http://www.tested.com/art/makers/454452-adam-savages-everyday-carry-edc/
+
+##More items to consider  
+
+* Emergency cash
+* Emergency sustenance: Nutritional bar, instant coffee packets, tea bags, peanut-butter packets, etc.
+* Water
+* Medicine, OTC and scripts
+* Napkins, tissues, microfiber cloth
+* Eyeware (glasses, sunglasses)
+* Adapters/Dongles (USB cables, adapter, splitters, etc.)
+* External mouse
+* Headphones
+* Wire strippers
+* Travel multimeter
+* Logic analyzer/ miniscope
+* Arduino kit
+* Travel surge protector
+* MicroSD cards and adapters
+* Flashlight
+* Pen, pencil, eraser & notebook
+* Straight edge
+* Sharpies
+* Zip ties
+* Tape
+* Knife
+* Tape measure
+* Screwdriver(s)
