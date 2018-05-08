@@ -41,7 +41,7 @@ For each bag/vehicle:
 
 ##More items to consider  
 
-Here are some items people list as being in their EDC. Do be selective, to carry ALL of this would mean a very big bag.  
+Here are some items people list as being in their daily kits. Honestly to carry ALL of this would mean a seriously big bag.
 
 * Emergency cash
 * Emergency sustenance: Nutritional bar, instant coffee packets, tea bags, peanut-butter packets, etc.
