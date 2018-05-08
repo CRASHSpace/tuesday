@@ -17,19 +17,20 @@ Being under pressure makes people make decisions they wouldn't normally, like pl
 
 There are lots of folks online demonstrating their "EDC," but don't just add the weight of other people's "shoulds".  Make a list of the bags/wallets/vehicles that you naturally take with you and think about what's right to carry in each of them.
 
-From a internet privacy and security standpoint, these would be the three items that I put high on my list, but these situations might not come up for you.
+From a internet privacy and security standpoint, these would be the  items to consider.
 
 * Charging cables, either battery backup or wall charger or both to prevent plugging in to strange cables or ports.
 * [Live USB Boot Disk](https://en.wikipedia.org/wiki/Live_USB) to prevent having to leave traces on someone else's machine.
-* Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.  
+* Travel hot-spot to get emergency coverage and to prevent the temptation to join a public network unprepared.
+* Relevant [security tokens](https://en.wikipedia.org/wiki/Security_token) if you've gone that route for [Two Factor Authorization](../zone02/2FA.md).
 
-At the end of the page I've put a brain dump. Pick and choose what works for you, and make a check list for each place that should be restocked each week.  
+ Pick and choose what works for you and make a check list for each place that should be restocked each week.  
 
 ##CRASH Space Blog Posts
 
 ##Other Links
-* http://everydaycarry.com/posts/5827/what-is-edc-the-beginners-guide-to-everyday-carry
-* http://www.tested.com/art/makers/454452-adam-savages-everyday-carry-edc/
+* <http://everydaycarry.com/posts/5827/what-is-edc-the-beginners-guide-to-everyday-carry>
+* <http://www.tested.com/art/makers/454452-adam-savages-everyday-carry-edc/>
 
 ##More items to consider  
 

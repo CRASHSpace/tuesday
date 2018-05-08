@@ -6,7 +6,7 @@ title: Zone 0 - Weekly Basics
 showonindexas: full
 ---
 
-Basic tasks that prevent a really big chunk of problems.
+Basic tasks that prevent the bulk of the most common problems.
 
 {% assign itemstoshow = (site.sweep | where: "zone" , "basics" | sort: 'list_order') %}
 {% for item in itemstoshow %}
