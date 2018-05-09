@@ -1,12 +1,12 @@
 ---
 collection: sweep
 layout: page
+name: 2FA.md
+title: Two Factor Authentication
 showonindexas: none
 easy_win: false
 zone: identity
 list_order:
-name: 2FA.md
-title: Two Factor Authentication
 weekly_todo_text: Enable Two Factor Authorization somewhere new, and/or ask for it from a vendor that doesn't offer it.
 quarterly_task:
 ---
