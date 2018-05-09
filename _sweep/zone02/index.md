@@ -6,6 +6,10 @@ title: Zone 2 - Identity
 showonindexas: link
 ---
 
- Zone 2 is “Identity,” yours, and how not to get it stolen. 
+ Zone 2 is “identity,” how to make increase the chances they you're you and they're them. One key step, using a [password manager](../zone00/password_manager.md), is included in the [weekly basics]((../zone00/index.md). 
 
 {% include zone_02.md %}
+
+## Misc useful links
+* <https://consumer.findlaw.com/online-scams/steps-you-should-take-in-preventing-identity-theft.html>
+* <https://www.consumer.ftc.gov/features/feature-0014-identity-theft>
