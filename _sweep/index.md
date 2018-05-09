@@ -6,7 +6,7 @@ showonindexas: none
 
 Ping?
 
-{% include weekly_basics.html %}
+{% include weekly_basics.md %}
 
 ## Other Checklists
 
