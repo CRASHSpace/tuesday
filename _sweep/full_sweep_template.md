@@ -68,4 +68,4 @@ We are a community. You are a welcome part of it.
 *   Like going to conferences? [Maybe one is coming up](https://infocon.org/cons/)!
 *   Show up at CRASH Space.
 
-## Relax
+### Relax
