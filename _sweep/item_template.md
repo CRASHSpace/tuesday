@@ -10,12 +10,12 @@ title:
 weekly_todo_text:
 quarterly_task:
 ---
-##Why This
+## Why This
 
-##Getting Started
+## Getting Started
 
-##Maintenance mode
+## Maintenance mode
 
-##CRASH Space Blog Posts
+## CRASH Space Blog Posts
 
-##Other Links
+## Other Links

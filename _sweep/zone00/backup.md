@@ -9,13 +9,13 @@ weekly_todo_text: Check that backup systems are actually running.
 quarterly_task: Test restoring a computer or other device from its back-up.
 showonindexas: none
 ---
-##Why This
+## Why This
 
-##Getting Started
+## Getting Started
 
-###CRASH Space Blog Posts
+## CRASH Space Blog Posts
 * https://blog.crashspace.org/2016/11/one-thing-to-do-today-tuesday-sweep-where-are-your-backups/
 * https://blog.crashspace.org/2017/01/one-thing-to-do-today-keep-a-clean-disk-image-on-hand/
 
-###Other Links
+## Other Links
 * https://www.grahamcluley.com/create-robust-data-backup-plan-make-sure-works/

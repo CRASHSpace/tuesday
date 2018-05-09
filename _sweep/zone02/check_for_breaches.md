@@ -10,15 +10,15 @@ title: New breaches and scams sweep
 weekly_todo_text: Check for new breaches & scams.
 quarterly_task:
 ---
-##Why This
+## Why This
 
-##Getting Started
+## Getting Started
 
-##Maintenance mode
+## Maintenance mode
 
 <https://haveibeenpwned.com/>
 * [latest scams reported by FTC](https://www.consumer.ftc.gov/features/scam-alerts)>
 
-##CRASH Space Blog Posts
+## CRASH Space Blog Posts
 
-##Other Links
+## Other Links

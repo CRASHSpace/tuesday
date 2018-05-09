@@ -9,12 +9,12 @@ title: Check neglected inboxes
 weekly_todo_text: What neglected inbox will you check today?
 quarterly_task: Did you acquire any new inboxes? Are the ones you keep open still necessary or can you shut them down?
 ---
-##Why This
+## Why This
 
-##Getting Started
+## Getting Started
 
-##Maintenance mode
+## Maintenance mode
 
-##CRASH Space Blog Posts
+## CRASH Space Blog Posts
 
-##Other Links
+## Other Links

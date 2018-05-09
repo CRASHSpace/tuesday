@@ -10,16 +10,16 @@ title: Secret Questions Aren't
 weekly_todo_text: Continue to use unique, fake answers to "secret questions" for password resets.
 quarterly_task:
 ---
-##Why This
+## Why This
 
 Most secret questions have hilariously easy to find public answers. Or the question itself is so trite that giving truthful answers becomes like using the same password for multiple sites.
 
 When a site asks you to fill out security question, make up new answers for each one and put them in the notes section of your password manager.
 
-##Getting Started
+## Getting Started
 
-##Maintenance mode
+## Maintenance mode
 
-##CRASH Space Blog Posts
+## CRASH Space Blog Posts
 
-##Other Links
+## Other Links
