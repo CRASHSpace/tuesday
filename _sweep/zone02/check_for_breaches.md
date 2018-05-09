@@ -5,8 +5,8 @@ showonindexas: none
 easy_win: false
 zone: identity
 list_order:
-name:
-title:
+name: check_for_breaches.md
+title: New breaches and scams sweep
 weekly_todo_text: Check for new breaches & scams.
 quarterly_task:
 ---
