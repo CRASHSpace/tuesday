@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuesday Sweep&#58 10 May 2018
+title: Tuesday Sweep&#58 08 May 2018
 date: 2018-05-10 13:37:17
 author: carlynorama
 categories: tuesdaysweep
@@ -10,8 +10,8 @@ Your weekly reminder to back up your data, update software and otherwise pay att
 
 So I don't know about y'all but I found those great giant bullet pointed walls of texts I started posting last month actually kind of demotivating. They just put every tiny little thing in great detail on the surface. I'd like to get the checklist back into that [magic 7±2 range](http://psychclassics.yorku.ca/Miller/). To that end I've been spending some quality time with Jekyll this week reorganizing. The lists have become tighter with "more" links for folks starting out or who need reminders. Hope this feels like an improvement!
 
-* [On the blog](https://crashspace.github.io/tuesday/tuesdaysweep/2018/05/10/tuesday-sweep.html)
-* [On the repo](https://crashspace.github.io/tuesday/tuesdaysweep/2018/05/10/tuesday-sweep.html)
+* [On the blog](https://crashspace.github.io/tuesday/tuesdaysweep/2018/05/08/tuesday-sweep.html)
+* [On the repo](https://crashspace.github.io/tuesday/tuesdaysweep/2018/05/08/tuesday-sweep.html)
 * [See all the zones](https://crashspace.github.io/tuesday/sweep/)
 
 ### Jump in Here
