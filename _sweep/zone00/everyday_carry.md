@@ -38,6 +38,7 @@ For each bag/vehicle:
 ##Other Links
 * <http://everydaycarry.com/posts/5827/what-is-edc-the-beginners-guide-to-everyday-carry>
 * <http://www.tested.com/art/makers/454452-adam-savages-everyday-carry-edc/>
+* <https://www.theverge.com/whats-in-your-bag>
 
 ##More items to consider  
 
@@ -56,6 +57,7 @@ Here are some items people list as being in their daily kits. Honestly to carry 
 * Wire strippers
 * Travel multimeter
 * Logic analyzer/mini oscilloscope
+* Calipers
 * Arduino kit
 * Travel surge protector
 * MicroSD cards and adapters
@@ -73,5 +75,8 @@ Here are some items people list as being in their daily kits. Honestly to carry 
 * Lotion
 * Personal choice of lip goo
 * Hand sanitizer
-* Bandaids
-* Liquid skin
+* Adhesive bandages/Liquid skin
+* Detergent sticks
+* Sweater/Hoodie/Hat/Scarf/gloves
+* Poncho/Umbrella
+* Reading material
