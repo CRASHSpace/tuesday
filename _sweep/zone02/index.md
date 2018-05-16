@@ -6,7 +6,7 @@ title: Zone 2 - Identity
 showonindexas: link
 ---
 
- Zone 2 is “identity,” how to increase the chances they you're you and they're them. One key step, using a [password manager](../zone00/password_manager.md), is included in the [weekly basics]((../zone00/index.md). 
+ The tasks in Zone two focus on questions of “identity,” how to increase the chances they you're you and they're them. One key step, using a [password manager](../zone00/password_manager.md), is included in the [weekly basics]((../zone00/index.md).
 
 {% include zone_02.md %}
 

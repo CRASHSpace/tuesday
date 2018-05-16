@@ -26,7 +26,9 @@ Some small random unrecognized transaction could be your first clue of identity 
 * If you see something you don't recognize report it immediately.
 
 ## CRASH Space Blog Posts
+* <https://blog.crashspace.org/2017/09/tuesday-sweep-12-september-2017/>
+
 
 ## Other Links
 * <https://clark.com/personal-finance-credit/credit-freeze-and-thaw-guide/>
-* <https://blog.crashspace.org/2017/09/tuesday-sweep-12-september-2017/>
+* <https://krebsonsecurity.com/2018/05/another-credit-freeze-target-nctue-com/>
