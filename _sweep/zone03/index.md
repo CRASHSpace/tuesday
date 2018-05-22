@@ -10,15 +10,15 @@ This third Tuesday Sweep of the month focuses on "Permissions." The old saying g
 
 {% include zone_03.md %}
 
-
 Start up
-- Switch to a privacy minded search engine
+- Switch to a privacy supportive search engine
 - Install privacy plugins
 - Develop a process for stripping EXIF data
 
 Maintain
-- Clear histories and logs
-- Double check permissions on your phone
-- Transfer email to offline archive
-- Check the permissions on at least one of your networking/social media accounts
+- Check & clear histories
+- Delete software not in use
+- Check what your devices are saying about you
 - Do some contact list clean up
+- Delete software not in use
+- Transfer email to offline archive
