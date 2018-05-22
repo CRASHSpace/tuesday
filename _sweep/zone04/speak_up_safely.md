@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone: Do No Harm
+zone: Leave It Better
 list_order: 4
 name: speak_up_safely.md
 title: Speak up safely.

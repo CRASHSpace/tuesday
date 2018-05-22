@@ -2,7 +2,7 @@
 collection: sweep
 layout: page
 name: index.md
-title: Zone 4 - Do No Harm
+title: Zone 4 - Leave It Better
 showonindexas: link
 ---
 

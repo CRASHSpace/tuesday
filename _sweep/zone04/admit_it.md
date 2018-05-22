@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone: Do No Harm
+zone: Leave It Better
 list_order: 3
 name: admit_it.md
 title: Shout your own mistakes to the treetops.

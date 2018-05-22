@@ -3,10 +3,10 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone: Do No Harm
+zone: Leave It Better
 list_order: 5
 name: speak_up_kindly.md
-title:
+title: Speak up kindly and with care
 weekly_todo_text: "If you've found a security flaw speak up KINDLY and with attention to detail. Community, it can be the best thing and the worst thing. Which one it is, is up to us."
 quarterly_task:
 ---

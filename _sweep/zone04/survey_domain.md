@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone: Do No Harm
+zone: Leave It Better
 list_order: 1
 name: survey_domain.md
 title: Better off than a bot.

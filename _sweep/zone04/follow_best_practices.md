@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone: Do No Harm
+zone: Leave It Better
 list_order: 2
 name: follow_best_practices.md
 title: Learn and Follow Best Practices
