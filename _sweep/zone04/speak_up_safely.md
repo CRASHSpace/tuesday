@@ -23,8 +23,10 @@ quarterly_task:
 ## Other Links
 
 <https://www.eff.org/issues/coders/vulnerability-reporting-faq>
+<<https://en.wikipedia.org/wiki/Responsible_disclosure>
+<http://howdoireportavuln.com/>
+<https://www.cyberscoop.com/signal-desktop-remote-code-flaw/>
 <https://security.stackexchange.com/questions/52/how-to-disclose-a-security-vulnerability-in-an-ethical-fashion>
-<https://en.wikipedia.org/wiki/Responsible_disclosure
 https://security.stackexchange.com/questions/807/reporting-vulnerable-sites>
 <https://stackoverflow.com/questions/667147/hacking-and-exploiting-how-do-you-deal-with-any-security-holes-you-find>
 <https://security.stackexchange.com/questions/13760/found-security-vulnerability-what-should-i-do>
