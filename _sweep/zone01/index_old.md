@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 name: index.md
 title: Zone 1 - Connectivity
-showonindexas: link
+showonindexas: none
 ---
 
 ### Start Up
