@@ -4,6 +4,8 @@ title: Sweep
 showonindexas: none
 ---
 
+## Weekly Basics
+
 {% include weekly_basics.md %}
 
 ## Other Checklists
