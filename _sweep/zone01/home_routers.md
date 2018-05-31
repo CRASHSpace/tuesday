@@ -3,11 +3,11 @@ collection: sweep
 layout: page
 showonindexas: none
 easy_win: false
-zone:
-list_order:
-name:
-title:
-weekly_todo_text:
+zone: connectivity
+list_order: 3
+name: home_routers.md
+title: Basic router setup and maintenance
+weekly_todo_text: Reboot your router.
 quarterly_task:
 ---
 ## Why This
