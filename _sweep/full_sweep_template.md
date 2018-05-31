@@ -40,7 +40,7 @@ _focus of the month_
 
 #### This Week’s Focus:
 
-{% include zone_04.md %}
+{% include zone_01.md %}
 
 ### Learn
 
