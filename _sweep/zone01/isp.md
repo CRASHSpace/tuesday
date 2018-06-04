@@ -6,8 +6,8 @@ easy_win: false
 zone: connectivity
 list_order: 1
 name: isp.md
-title: The P in ISP isn't for Privacy
-weekly_todo_text: Any new ISP choices available to you? Hassled your elected officials lately about that?
+title: How do you connect
+weekly_todo_text: Any new ISP choices available to you? Hassled your elected officials lately about that? Have fun researching alternatives!
 quarterly_task:
 ---
 ## Why This
@@ -19,3 +19,8 @@ quarterly_task:
 ## CRASH Space Blog Posts
 
 ## Other Links
+
+HAM
+APRS
+Local Mesh-network clubs
+Hot spots

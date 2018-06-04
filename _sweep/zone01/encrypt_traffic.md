@@ -14,6 +14,8 @@ quarterly_task:
 
 ## Getting Started
 
+<https://www.eff.org/https-everywhere>
+
 ## Maintenance mode
 
 ## CRASH Space Blog Posts
