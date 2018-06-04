@@ -13,3 +13,5 @@ showonindexas: link
 ## Misc useful links
 * <https://consumer.findlaw.com/online-scams/steps-you-should-take-in-preventing-identity-theft.html>
 * <https://www.consumer.ftc.gov/features/feature-0014-identity-theft>
+
+- Sacrificial data
