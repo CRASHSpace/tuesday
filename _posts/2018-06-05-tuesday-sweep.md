@@ -47,6 +47,7 @@ And we roll around to the beginning again, Zone 1, “Connectivity,” focusing 
 
 Where do you [scan for news](https://crashspace.github.io/tuesday/), include a politics update!
 
+*   Alright, can I just say, Apple turning [Safari into a more private browser](https://www.theverge.com/2018/6/4/17427000/wwdc-apple-safari-antitracking-facebook-like-share) makes me smile. I wonder if it will start making "[secure](https://www.techworld.com/security/best-8-secure-browsers-3246550/) [browser](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/)" lists?
 *   WaPo wades into privacy policy conversation in plain English that can be forward to your non-tech friends.
     *   [15 default privacy settings you should change right now](https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/hands-off-my-data-15-default-privacy-settings-you-should-change-right-now/)
     *   [Don’t use default privacy settings on sites and devices](https://www.washingtonpost.com/video/business/technology/dont-use-default-privacy-settings-on-sites-and-devices/2018/06/01/1f882f50-65bb-11e8-81ca-bb14593acaa6_video.html)
