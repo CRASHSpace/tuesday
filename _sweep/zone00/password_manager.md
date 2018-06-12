@@ -7,7 +7,7 @@ easy_win: true
 list_order: 3
 name: password_manager.md
 title: Download and USE a password manager
-weekly_todo_text: Put any straggling passwords/secure info into password manager, Spend some time updating flagged passwords.
+weekly_todo_text: Spend some time adding passwords to your password manager and updating flagged passwords.
 ---
 ## Why This
 
