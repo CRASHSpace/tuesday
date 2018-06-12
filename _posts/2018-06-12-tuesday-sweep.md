@@ -52,6 +52,7 @@ Where do you [scan for news](https://crashspace.github.io/tuesday/), include a p
     *   https://www.wired.com/story/microsoft-github-code-moderation/
     *   https://www.linuxfoundation.org/blog/microsoft-buys-github-the-linux-foundations-reaction/
     *   Public Goods 101: [Khan Academy](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/ap-consumer-producer-surplus/ap-externalities-topic/a/public-goods-cnx)
+*   Handy reference when you change your GitHub password run "git config --global --unset user.password" in the command line. 
 *   When you can’t go national, go local.
     *   I think I’m going to call [my CA reps](http://findyourrep.legislature.ca.gov/) to see if we can’t get a law like Washington State, holding online media to the [same standards as everyone else for political Ads](https://arstechnica.com/tech-policy/2018/06/new-law-forces-google-to-suspend-political-ads-in-washington-state).
     *   Keeping with the “Washington State is Awesome,” [their Net Neutrality law kicked in today](https://arstechnica.com/tech-policy/2018/06/first-state-net-neutrality-law-took-effect-today-countering-fcc-repeal/). We [don’t have ours yet](https://arstechnica.com/tech-policy/2018/06/first-state-net-neutrality-law-took-effect-today-countering-fcc-repeal/)… call your [Assembly Rep](http://findyourrep.legislature.ca.gov/)!
