@@ -5,7 +5,7 @@ showonindexas: none
 easy_win: false
 zone: permission
 list_order:
-name: attack_surface.md
+name: call_your_reps.md
 title:
 weekly_todo_text:
 quarterly_task:
