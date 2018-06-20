@@ -19,6 +19,8 @@ You are exposing not just your information, but those of your friends and busine
 Those who care are [developing alternatives](
 https://www.wired.com/story/signal-contact-lists-private-secure-enclave/)
 
+https://arstechnica.com/gadgets/2018/06/apple-bans-developers-from-creating-selling-user-contacts-databases/
+
 ## Getting Started
 
 ## Maintenance mode
