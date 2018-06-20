@@ -7,7 +7,7 @@ zone: permission
 list_order: 2
 name: location.md
 title: Location
-weekly_todo_text: Check your location sharing settings and clear out other location leaking data
+weekly_todo_text: Spend 10 minutes check your location sharing settings and clear out other location leaking data
 quarterly_task:
 ---
 ## Why This

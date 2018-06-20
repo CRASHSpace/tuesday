@@ -7,7 +7,7 @@ zone: permission
 list_order:
 name: browser.md
 title: More private browsing
-weekly_todo_text: Keep using privacy minded browsers and search engines, clear cookies and history.
+weekly_todo_text: Keep using privacy minded browsers and search engines, Spend 5 minutes clearing cookies and history as needed.
 quarterly_task:
 ---
 ## Why This

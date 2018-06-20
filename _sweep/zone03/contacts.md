@@ -7,7 +7,7 @@ zone: permission
 list_order:
 name: contacts.md
 title: Contacts
-weekly_todo_text: Limit what you keep in your contact book, or don't let apps see it.
+weekly_todo_text: Don't let apps see your contact book, or spend time moving sensitive contacts into something else.
 quarterly_task:
 ---
 ## Why This

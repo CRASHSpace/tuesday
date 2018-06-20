@@ -7,7 +7,7 @@ zone: permission
 list_order:
 name: apps_are_leaky.md
 title: App vs Browser
-weekly_todo_text: When in doubt, remember to use the website, not an App.
+weekly_todo_text: When in doubt, remember to use the website, not the App.
 quarterly_task:
 ---
 ## Why This
