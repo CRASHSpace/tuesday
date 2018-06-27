@@ -7,7 +7,7 @@ zone: permission
 list_order:
 name: store_offline.md
 title: Move sensitive data and email offline
-weekly_todo_text: Spend 10 minutes moving unencrypted data (for example email) older than ~3 months old to offline archive.
+weekly_todo_text: Spend 10 minutes moving unencrypted data (for example, email) older than ~3 months old to offline archive.
 quarterly_task:
 ---
 ## Why This
