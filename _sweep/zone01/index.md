@@ -6,7 +6,7 @@ title: Zone 1 - Connectivity
 showonindexas: link
 ---
 
-{% include zone_02.md %}
+{% include zone_01.md %}
 
 
 ## Links for next round
