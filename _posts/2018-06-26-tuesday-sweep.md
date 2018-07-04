@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tuesday Sweep&#58 19 June 2018
-date: 2018-06-19 13:37:17
+title: Tuesday Sweep&#58 26 June 2018
+date: 2018-06-26 13:37:17
 author: carlynorama
 categories: tuesdaysweep
 ---
