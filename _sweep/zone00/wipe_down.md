@@ -10,9 +10,10 @@ weekly_todo_text: Wipe down your main devices, physically!
 quarterly_task:
 ---
 ## Why This
-- reminder that you care
-- germs
+
+- a reminder to yourself that you care about what that device does for you
 - check for wear and tear
+- - literal germs
 - check for anything that shouldn't be there
 
 ## Getting Started
