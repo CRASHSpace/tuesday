@@ -20,6 +20,7 @@ quarterly_task:
     *   [OWASP](https://www.owasp.org) – [The Ten Most Critical Web Application Security Risks 2017](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project)
     *   [SANS](https://www.sans.org/) – [Building the New Network Security Architecture for the Future](https://www.sans.org/reading-room/whitepapers/analyst/building-network-security-architecture-future-38255)
     *   [GSMA](https://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/) – [IoT Security Guidelines Overview](https://www.gsma.com/iot/iot-security-guidelines-overview-document/), and [Assessment](https://www.gsma.com/iot/iot-security-assessment/) (hilariously, a .docx)
+    * [O'rielly Checklists](https://www.oreilly.com/ideas/of-oaths-and-checklists)
 
 ## Maintenance mode
 
