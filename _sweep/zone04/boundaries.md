@@ -7,7 +7,7 @@ zone: Leave It Better
 list_order: 3
 name: boundaries.md
 title: Have well defined boundaries
-weekly_todo_text: "Maintain and clearly communicate healthy boundaries. Don't allow poison at your pot luck."
+weekly_todo_text: "Maintain and clearly communicate healthy boundaries. Don't allow people to bring poison to your pot luck."
 quarterly_task:
 ---
 
