@@ -24,6 +24,8 @@ description: "Websites, podcasts and tweeter feeds worth peaking at regularly."
 * <https://datasociety.net/>
 * <http://motherboard.vice.com/tag/cybersecurity>
 * <https://www.justsecurity.org/>
+* <https://www.scmagazine.com/>
+* <https://threatpost.com/>
 * <https://www.recode.net/>
 * <https://hackaday.com/>
 * <https://www.sparkfun.com/news>
