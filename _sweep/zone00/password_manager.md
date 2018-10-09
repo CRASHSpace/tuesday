@@ -4,7 +4,7 @@ layout: page
 showonindexas: none
 zone: basics
 easy_win: true
-list_order: 3
+list_order: 5
 name: password_manager.md
 title: Download and USE a password manager
 weekly_todo_text: Spend some time adding passwords to your password manager and updating flagged passwords.

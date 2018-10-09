@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 zone: basics
-list_order: 2
+list_order: 3
 name: everyday_carry.md
 title: Everyday carrys.
 weekly_todo_text: Clean out and reset wallet/purse/laptop bag/vehicle.

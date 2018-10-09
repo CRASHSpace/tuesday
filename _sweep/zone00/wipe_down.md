@@ -3,7 +3,7 @@ collection: sweep
 layout: page
 showonindexas: none
 zone: basics
-list_order: 3
+list_order: 2
 name: wipe_down.md
 title: Check neglected inboxes
 weekly_todo_text: Wipe down your main devices, physically!
