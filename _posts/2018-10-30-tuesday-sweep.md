@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuesday Sweep&#58 23 October 2018
+title: Tuesday Sweep&#58 30 October 2018
 date: 2018-10-30 13:37:17
 author: carlynorama
 categories: tuesdaysweep
@@ -48,7 +48,7 @@ Where do you [scan for news](https://crashspace.github.io/tuesday/), include a p
 *   *   Just Vote. Or fill out your sample ballot to take with you to the polls. Here are some guides to help
         *   [Voters Edge](https://votersedge.org/ca)
         *   [LAist/KPCC guide](http://elections.laist.com/2018/ca-general/voter-game-plan/candidates-races/)
-        *   For Judges: Los Angeles County Bar Association Judicial Elections Evaluation Committee –
+        *   For Judges: Los Angeles County Bar Association Judicial Elections Evaluation Committee –  
             [Landing Page](https://www.lacba.org/about-us-menu/lacba-committees/standing-committees/judicial-elections-evaluation) | [Final Report](https://www.lacba.org/docs/default-source/jeec-reports/2018-jeec-report/jeec-report-2018.pdf) (PDF)
         *   For Judges: League of Women Voters fact sheet on where to look for [more information about judges](https://my.lwv.org/sites/default/files/leagues/los-angeles/judgingjudges.pdf)
         *   [Official Docs](https://voterguide.sos.ca.gov/)… [currently 503](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
